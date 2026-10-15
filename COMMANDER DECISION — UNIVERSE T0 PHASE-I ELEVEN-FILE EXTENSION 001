@@ -1,0 +1,41 @@
+COMMANDER DECISION — UNIVERSE T0 PHASE-I ELEVEN-FILE EXTENSION 001
+
+Decision status: PROSPECTIVE APPROVAL / SUBJECT TO INDEPENDENT QUALIFICATION AND EFFECTIVITY. NO PRESENT CODE, BUILD HOLD OR MERGE AUTHORITY.
+
+Repository: RaunTechnologies/rallyproof
+Campaign: CMD-RALLYPROOF-UNIVERSE-T0-END-TO-END-CAMPAIGN-001
+Prior signed decisions: CMD_RALLYPROOF_UNIVERSE_T0_CAMPAIGN_001; CMD_RALLYPROOF_UNIVERSE_T0_S1_EXECUTOR_BUILD_HOLD_001; CMD_RALLYPROOF_UNIVERSE_T0_S1_S6_DELEGATION_001.
+Decision package: universe-t0-phase1-authority-package-20261015.md, SHA-256 F73D71384B688C6C38B3FAA82D7AC210C4BD1C387CE75232FBB7F1EB8A64D1FE.
+Prior direct Codex approval evidence: task 01a13efc-3874-76e0-a38c-6fa7d23a121b, Human userMessage 01a13f30-473e-7cc1-b107-f3e105d398b2, exact UTF-8 text "DET ER GODKJENT", 15 bytes, SHA-256 33AEB7D5E752F9A996D93B00AC28C3ABC3505229A89A4F7CB391A9A0D9405768. This evidence does not substitute for required protected-source publication or effectivity.
+
+I, the Human Commander, prospectively adopt one bounded Phase-I extension of the already approved Universe T0 campaign. D1/D2 and the signed S1 decisions are preserved; I do not repeat or retroactively amend them. The existing signed S1 Build Hold and S6 decisions concern only the S1 source/test pair and remain separate, conditional effects.
+
+I prospectively approve campaign Grant A for non-production implementation, testing and bounded repair, and Grant B for evidence gathering, qualification, review and re-review, for ONLY these eleven paths and their SHA-256-preserved initial candidate bytes:
+
+1. src/lib/rallyproof/universe-t0-s1-candidate.ts — F213988ECE4F0DAC2FE5ED0B6F55D6628BA28F882B635E86AAB2CD00368DF03D
+2. src/lib/rallyproof/universe-t0-s1-candidate.test.ts — B4EBC8A9EE9071CC30467F1BA7DF19E526B6BF3353BB83F2B7AA0F947CDB10AD
+3. src/lib/rallyproof/universe-t0-authoritative-read.server.ts — 56ADC9D2A518A45FAE2E7F7C9B16C799C04FED5450CCA7113282BE6351593751
+4. src/lib/rallyproof/universe-t0-authoritative-read.server.test.ts — BB98CD3B41CF60089571BFAD733B7040DD3BE026589C877131ADAF7A9520D62D
+5. src/lib/rallyproof/universe-t0-historical-observation.ts — D2AB0F7BBE2FC665F258F26D8DA80FE69D860CDDD31A81A41EA20E508B8414EF
+6. src/lib/rallyproof/universe-t0-historical-observation.test.ts — E4DE2497CDF215716221347FD8BDC8A83A9478E7BBF174D23CE911199581C7F9
+7. src/lib/rallyproof/universe-t0-op030-performance.ts — E9A5E28B46B21FBF06A1D0DC87C88C017ECD590DF5101CA79412C0D102B68A60
+8. src/lib/rallyproof/universe-t0-op030-performance.test.ts — 19B42A56521E9F48A951B20CF060FAFD03207CC908BE415DADA7674D40A7CCA8
+9. src/lib/rallyproof/universe-t0-customer-projection.ts — AD58C4B83C28F1FB1951C2EBCA7EF27208A43EDB6FE921E89FC2F625FF134034
+10. src/lib/rallyproof/universe-t0-customer-projection.test.ts — 7B5440276D191EB55A824B3EB8C436231E4CB1CBE5A9BFD234E6892FCEF4616A
+11. src/lib/rallyproof/universe-t0-integration.test.ts — A002C1EA6A75BDF565BF0FB379F2EDBD3B6F9815D1CB8234F5476CD20CB2CB9A
+
+The original ZIP SHA-256 is 572BB366DED6E0C2BAAD0D8623177B78DEBB62822D40DD107EEEE3EF49DD496E; its eleven-entry manifest SHA-256 is 3BCA5D4F0B6E9A97BE8F1CF88C375AC54A859CBB0D4524E35BB791671FACA54D. The initial byte hashes identify the preserved candidate, not an immutable ceiling on later prospectively authorized, reviewed repairs in these exact paths.
+
+I prospectively approve a matching, temporary, revocable Phase-I Build Hold exception for only those eleven paths and these effects: pure/read-only candidate validation, governed non-production reads through already authorized source adapters, synthetic tests, bounded repairs, static/security analysis and PR preparation. No other path or effect is included. General Build Hold remains active. No retroactive authorization of the earlier local code creation is asserted.
+
+I retain task-admission and provider-instance binding authority personally; no XO binder is appointed. For the first bounded technical packet I propose to bind Codex provider task 01a13efc-3874-76e0-a38c-6fa7d23a121b, host local, and GitHub technical transport actor kompanikollen-arch#255761231 to the exact Phase-I scope only AFTER independent provider/source, currentness, effective technical direction and Hold checks. A successor or parallel session requires my direct rebinding. A copied task ID, assistant assertion or GitHub login alone never binds an executor.
+
+For this eleven-file Phase-I envelope I issue bounded technical direction to realize the accepted M7/M2/T0, OP030 and customer-boundary contracts without changing professional methodology or authority semantics. I propose direct Commander technical direction as the temporary alternative to an unverified S6 holder, subject to a specific independent finding that current OMv2 and the effective S6 envelope permit this exercise. This is not an S6 appointment of Codex and does not confer S6 professional validation on an AI agent. If that route is not valid, technical execution remains stopped until a competent attributable S6 delegate is qualified; no person or holder is invented here.
+
+Excluded: database, SQL, schema and writer mutation; durable T0 creation; real issuer admission or M2 mutation; production/staging mutation or deployment; external live market-data retrieval without separate source authority; customer publication/access; methodology or score changes; security/identity/credential/permission changes; workflow or package changes; general Hold release; automatic or self merge; force push or history rewrite. Grant C is NOT granted. Each governance and implementation PR merge requires its own exact-object competent disposition and mutation authorization.
+
+This decision is prospective and becomes exercisable only after protected source authenticity/currentness; independent exact-object CLASS_A/DEPTH_3 qualification of the material extension, S6/direct Command route, executor binding and Build Hold effect; required exact-HEAD CI; separately authorized normal governance merge where required; independent canonical postmerge readback and prospective effectivity evidence; and fresh action-time scope, actor, expiry and revocation checks. A source, review PASS, CI result or merge alone is insufficient. The historical local prototype remains a candidate; later adoption does not erase its pre-authority provenance.
+
+Expiry is 2026-12-15T23:59:00Z, completion or revocation, whichever comes first. Review at least every 30 days after effectivity and each later review, or sooner under stricter governing rules. Material scope, security, policy, authority or effect expansion returns to the competent authority. Routine in-scope technical repair after effectivity does not require another substantive campaign approval.
+
+HUMAN COMMANDER — PROSPECTIVE DECISION FOR EXACT ELEVEN-FILE PHASE-I QUALIFICATION ONLY.
