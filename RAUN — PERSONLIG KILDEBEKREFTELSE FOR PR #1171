@@ -1,0 +1,18 @@
+RAUN — PERSONLIG KILDEBEKREFTELSE FOR PR #1171
+
+Jeg, Peter Meyer, Human Commander, bekrefter at jeg personlig
+godkjente det prospektive, avgrensede mandatet
+CMD-RAUN-SELECTIVE-REVIEW-SET-IMPLEMENTATION-001, fanget i PR #1171
+med kandidatblob 7c9a26d4be6ca5c1bcb28982225ebbce4856cfc0.
+
+Jeg publiserte personlig kildebekreftelsen i GitHub-commit
+df4d013a7e59c878581166d55ee898f3729ad491 gjennom kontoen
+commanderrallyproof. Denne bekreftelsen dokumenterer mitt eget
+opphav til beslutningen og publiseringen; den hevder ikke at
+kontoforvaringen ellers er sikkerhetskvalifisert.
+
+Mandatet gjelder bare det angitte ikke-produksjonsoppdraget, de tre
+filene og det betingede oppgavespesifikke Build Hold-unntaket i PR #1171.
+Jeg utvider ikke mandatet. Denne meldingen gir ingen umiddelbar
+Build Hold-effekt, kodeendringsmyndighet, live dispatch eller merge.
+Uavhengig kvalifisering, effektivitetsbinding og fersk F07 gjelder fortsatt.
