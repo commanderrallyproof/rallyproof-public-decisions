@@ -1,0 +1,20 @@
+COMMANDER DECISION — UNIVERSE T0 PR #1166 CURRENTNESS TRANSPORT SUPPLEMENT 004
+
+Repository: RaunTechnologies/rallyproof
+Status: PROSPECTIVE / GOVERNANCE TRANSPORT ONLY
+
+I, the Human Commander, supplement decision 003 §§4–5. D1/D2 and decisions 001–003 otherwise remain in force. This decision grants no retroactive authority or present Build Hold release.
+
+PR #1166 is at HEAD 54aa857fdd542fa991a6701653b1446b53b5e8d8. Its qualification-document blob is e1c7d689cedc88aff960ea9ccb4fd89526efdd02, and its provider-reported changed-file set is eight governance documents with no code. Protected main was observed at 8b875c8dfdab1e4ff4434646bd628a6ef06d159b. Its branch rule requires the PR branch to be up to date and the validate check to pass.
+
+I authorize the bound Codex task 01a13efc-3874-76e0-a38c-6fa7d23a121b and GitHub transport account kompanikollen-arch#255761231 to:
+
+1. Make one normal, non-force commit and push directly from the stated PR HEAD, changing only docs/governance/op039/UNIVERSE_T0_S1_EXECUTOR_BUILD_HOLD_QUALIFICATION_CANDIDATE_20261014.md to record this decision and its verification evidence.
+
+2. After fresh provider checks, integrate then-current protected main into the same PR branch by normal, history-preserving, non-force merge as often as strictly required by the up-to-date branch rule before the first governance merge. Each integration must be conflict-free, preserve the source-captured qualification document byte-identically, and leave the PR diff against the integrated main limited to the same eight governance-document paths, with no code diff or semantic candidate change. If any condition fails, STOP. No rebase, squash, force push, history rewrite, conflict repair or branch-protection change is authorized.
+
+3. For the final resulting HEAD, obtain fresh exact-head CI and attributable independent A/B/C PASS returns against then-current main. Scoped earlier findings may be reused only where the effective review standard permits. Decision 003’s conditional authority for one normal governance merge applies to that final reviewed and CI-passed PR HEAD after all its other currentness and protection checks pass. Routine clean currentness integrations within this exact envelope require no further Commander decision.
+
+Decision 003’s separate postmerge review and unedited effectivity receipt remain mandatory. Grants A/B and the bounded Phase-I Build Hold exception cannot be used before the first valid receipt’s GitHub created_at. No implementation merge, database, production, issuer or customer effect is granted.
+
+This supplement expires with decision 003, or earlier upon PR closure, revocation, scope drift or failed currentness.
