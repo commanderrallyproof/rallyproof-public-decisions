@@ -1,0 +1,15 @@
+RAUN — HUMAN COMMANDER DECISION
+CAMPAIGN NAVIGATION REPAIR 001
+
+Jeg, Peter Meyer, Human Commander, publiserer personlig denne beslutningen.
+
+Jeg godkjenner prospektivt én avgrenset, ikke-produksjons implementeringsoppgave og et oppgavespesifikt unntak fra aktiv Build Hold. Omfanget er utelukkende Decision Package v3 sin to-filsreparasjon, basert på main 1bed7614a82c04d7aa874f51e81e1936400fd0b1:
+
+1. START_HERE_RALLYPROOF.md — foreslått blob e9d5ea8015352cd30ef97148e36ab2ac0b2bf930.
+2. 01_HQ/COMMANDER/DEVELOPMENT_CAMPAIGN_ORDER_TEMPLATE.md — foreslått blob 3e353ae49ec114e74617465b1207864a997ad491.
+
+Jeg godkjenner binding av Codex-oppgave 01a13f0d-f6b6-7550-87b6-9e7add5998bc som teknisk utfører for akkurat denne oppgaven gjennom eksisterende oppgavespesifikk S6-mekanisme. Kompetent teknisk retning, faktisk utføreridentitet, GitHub-transportkonto og binding må verifiseres og kvalifiseres før utførelse. Dette utnevner ingen generell S6-holder.
+
+Når alle vilkår er effektive, kan den bundne utføreren anvende eksisterende patch på en ren gren, teste, opprette PR og rette funn innenfor de samme to filene. Uavhengig review og gjeldende CI- og currentness-krav gjelder.
+
+Denne beslutningen gir ingen generell Build Hold-frigivelse, tredje fil, normativ governance-endring, Grant C, merge-myndighet, deploy, produksjonsendring eller publisering. Beslutningen kan først utøves etter gyldig kildeverifikasjon, nødvendig uavhengig kvalifisering, kanonisk kildefangst og prospektiv effektivering.
