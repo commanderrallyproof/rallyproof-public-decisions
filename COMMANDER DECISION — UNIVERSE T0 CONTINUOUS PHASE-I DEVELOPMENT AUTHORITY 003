@@ -1,0 +1,56 @@
+COMMANDER DECISION — UNIVERSE T0 CONTINUOUS PHASE-I DEVELOPMENT AUTHORITY 003
+
+Repository: RaunTechnologies/rallyproof
+Campaign: CMD-RALLYPROOF-UNIVERSE-T0-END-TO-END-CAMPAIGN-001
+Status: PROSPECTIVE / SUBJECT TO INDEPENDENT QUALIFICATION AND EFFECTIVITY
+
+I, the Human Commander, issue this one prospective decision to permit continuous, bounded construction of an integrable, non-production Universe T0 software candidate. D1/D2 and Commander decisions 001 and 002 remain in force except for the express prospective amendments below. Nothing in this decision retroactively authorizes earlier local work or governance commits.
+
+1. ONE CONTINUOUS TASK AND EXECUTOR
+
+I admit one continuous Phase-I development task covering the scope in section 2. I bind Codex provider task 01a13efc-3874-76e0-a38c-6fa7d23a121b on the local host as engineering executor and GitHub account kompanikollen-arch#255761231 as technical transport actor, as already decided in 002. No XO binder is appointed. A successor task or different account still requires my direct, provider-verifiable rebinding.
+
+Within this effective task envelope, routine implementation, testing and repair do not require another Commander approval for each file or iteration. Codex may not admit work outside the envelope or certify its own authority.
+
+2. PROSPECTIVE FILE AND EFFECT ENVELOPE
+
+For future work, I replace decision 001’s eleven-path ceiling with this maximum source/test envelope:
+
+- the exact eleven preserved files and initial SHA-256 baseline in decision 001; and
+- TypeScript source and test files directly under src/lib/rallyproof/ whose basenames begin universe-t0- and end .ts, including .test.ts files.
+
+The preserved eleven files, ZIP and manifest remain the historical baseline. Before first editing or creating each additional permitted file, the executor must record its exact path, requirement, expected effect and relevant contract in the task evidence. That record narrows this already admitted task; it cannot add another path class or effect.
+
+Grant A covers iterative implementation and bounded repair inside this envelope. Grant B covers tests, static and security checks, evidence collection, independent review requests and re-review. Permitted effects are pure or read-only non-production Universe T0 logic, governed reads through already authorized M7/M2 interfaces, historical/provenance handling, OP030 performance projection, customer-projection preparation, synthetic fixtures, contract and integration tests, and PR preparation. A read adapter must use an actually authorized source; missing source authority is not permission to invent one.
+
+This decision authorizes no change to other runtime modules, routes, UI, package or workflow files, migrations, schemas or governance files except the source-capture action in section 4. It authorizes no live database or writer mutation, durable T0 storage, real issuer admission, external live data retrieval without source authority, production or staging mutation, customer publication or access, methodology change, credential or permission change, deployment, or implementation-PR merge. General Build Hold remains active outside this envelope. Grant C for implementation PRs is not granted here.
+
+3. EXPRESS CONSTRUCTION-ONLY S6 DIRECTION EXCEPTION
+
+Exercising reserved Command authority over a material exception under effective OMv2 §§3.6 and 4.1, I expressly approve a prospective exception to the S6 Technical Systems Authority Envelope §10 requirement for S6 technical direction before agent execution, solely for construction and bounded repair of the candidate in section 2. My task-specific technical direction in decision 002 §2 supplies direction for that preconstruction step. This is an express exception submitted for independent qualification, not an assertion that the earlier conditional wording had already become effective.
+
+Codex is not an S6 holder. This exception transfers no S6 professional baseline, technical-validation or handoff authority. Routine implementation choices must stay within already approved M7/M2, T0, OP030 and customer-projection contracts. A material technical or governed-semantic question returns to its competent authority. Separately attributable, competent S6-AUTH-02 technical validation remains required before implementation integration. If independent review finds this narrow exception invalid under an effective governing rule, code execution remains held.
+
+4. ONE SOURCE-CAPTURE ACTION
+
+I authorize kompanikollen-arch#255761231 to make one normal, non-force commit and push on the existing PR #1166 branch, directly from currently observed HEAD 62626a0bd7e94da4f8419e43c2ba98b4fcd922ba, changing only:
+
+docs/governance/op039/UNIVERSE_T0_S1_EXECUTOR_BUILD_HOLD_QUALIFICATION_CANDIDATE_20261014.md
+
+That action may record this decision, its verification evidence and the amended prospective envelope. It may not change implementation files, rewrite published history or merge. The resulting new PR HEAD must be obtained from GitHub and frozen for review. This authorization makes no claim about the historical authority status of prior commits.
+
+5. INDEPENDENT QUALIFICATION AND GOVERNANCE MERGE
+
+I commission three fresh, separately provider-attributable, read-only Codex review executions under the existing Independent Review Standard and Review and Verification Standard 002 for CLASS_A / DEPTH_3 questions A, B and C. A reviewer must not have prepared or repaired this candidate, inherit a sibling verdict or mutate the repository. Each must directly obtain the applicable Commander source, Codex task identity, authenticated technical GitHub account, exact PR HEAD and diff, fresh main and base, eleven-file baseline, required CI, S6 exception and Build Hold effects from the relevant providers. Each returns an attributable PASS, FAIL or UNRESOLVED. Any required non-PASS stops progression. Earlier Review Set run 38730195920 remains UNRESOLVED; it is not relabeled.
+
+Only after three valid PASS returns, successful exact-HEAD CI, fresh currentness and branch-protection checks, and confirmation that PR #1166 contains only the reviewed governance-document scope, I authorize kompanikollen-arch#255761231 to perform one normal merge of that exact reviewed and CI-passed PR HEAD. This permission overrides decision 002’s no-merge limit for PR #1166 only. If HEAD, target main/base or governing sources move materially, requalify before merge. No force push, history rewrite or implementation-PR merge is authorized.
+
+6. PROSPECTIVE BUILD HOLD EFFECTIVITY
+
+After the governance merge, a separate read-only reviewer must verify the canonical merge, exact first-parent diff and blob, Commander sources, A/B/C returns, CI, bound task/account and absence of revocation. I authorize the technical transport account to post one unedited, top-level PR #1166 effectivity receipt identifying those exact provider objects and the independent postmerge PASS.
+
+The matching Phase-I Build Hold exception and Grants A/B become exercisable no earlier than the GitHub provider created_at time of the first valid receipt, and only while every prerequisite remains current. No backdating is permitted. Before each resumed code action, verify task/account identity, scope, source currentness, expiry and revocation. Continue directly through routine in-scope development and repair; return only material scope, authority, security-policy, methodology or effect expansion to competent authority.
+
+This decision grants no production, database, customer-publication or implementation-merge authority. It expires with decision 001 at 2026-12-15T23:59:00Z, or earlier upon completion, revocation or loss of required currentness.
+
+HUMAN COMMANDER — PROSPECTIVE CONTINUOUS PHASE-I DEVELOPMENT DECISION
