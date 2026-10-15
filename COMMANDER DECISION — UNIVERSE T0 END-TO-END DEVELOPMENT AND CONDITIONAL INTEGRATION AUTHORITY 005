@@ -1,0 +1,209 @@
+COMMANDER DECISION — UNIVERSE T0 END-TO-END DEVELOPMENT
+AND CONDITIONAL INTEGRATION AUTHORITY 005
+
+Repository: RaunTechnologies/rallyproof
+Campaign: CMD-RALLYPROOF-UNIVERSE-T0-END-TO-END-CAMPAIGN-001
+Status: PROSPECTIVE; subject to independent qualification and effectivity
+
+I, the Human Commander, prospectively extend the existing Universe T0
+campaign in one decision. D1/D2, decisions 001–004, the preserved
+eleven-file baseline, and the PR #1166 effectivity receipt remain the
+historical and current authority chain. This decision grants no
+retroactive authority.
+
+1. MISSION AND CONTINUOUS TASK
+
+The bounded development end state is a working, repository-integrated
+Universe T0 capability that can trace an exact authorized M7
+ADMIT_TO_UNIVERSE decision through an authorized, persisted and verified
+M2 transition to an immutable T0 admission baseline; preserve
+admission-era analytical and market provenance; and feed governed
+internal OP030 and customer-ready read projections. Acceptance requires
+an end-to-end synthetic or otherwise authorized test, security and
+technical validation, exact-head CI, independent review, and verified
+integration. This decision does not itself admit an issuer, publish to
+customers, or authorize a deployment.
+
+I retain one continuous development task. Codex provider task
+01a13efc-3874-76e0-a38c-6fa7d23a121b on the local host remains the
+engineering executor; GitHub account kompanikollen-arch#255761231
+remains the technical transport actor. Within the maximum scope below,
+the executor may identify, sequence, implement, test and repair narrower
+technical packets without another Commander campaign-scope approval.
+Before first mutation of a new path, record its exact path, requirement,
+expected effect, applicable contract and test in task evidence. A
+packet may narrow but never enlarge this decision. A successor Codex
+task or different GitHub account requires my direct provider-verifiable
+rebinding. No XO binder is appointed.
+
+2. MAXIMUM DEVELOPMENT PATH ENVELOPE
+
+The following is the maximum repository envelope, solely for direct
+Universe T0 implementation and paired tests:
+
+A. Existing eleven Phase-I files and new
+   src/lib/rallyproof/universe-t0-*.ts and
+   src/lib/rallyproof/op039-m7-*.ts.
+
+B. Narrow T0 integration changes to the existing
+   op039-m2-lifecycle-state-machine,
+   op039-m2-authoritative-lifecycle-persistence.server,
+   op039-m0-canonical-identity-readside.server,
+   op030-wave6-universe-runtime,
+   op030-wave8b-durable-mvp-backend,
+   op030-wave8b-server-functions,
+   op030-wave9a-professional-analytical-packet,
+   op030-wave9b-internal-mvp-user-journey,
+   customer-published-company,
+   customer-published-access and
+   published-knowledge-flow modules under src/lib/rallyproof/,
+   and their paired tests. Existing M2 authority and writer semantics
+   may not be changed by implication.
+
+C. Dedicated T0 presentation and access-gated integration in
+   src/components/rallyproof/UniverseT0*.tsx; the existing
+   OP030Universe*.tsx, OP030DurableMvpReadModelPanel.tsx,
+   CustomerDashboardPage.tsx and CustomerPublishedTrustLabel.tsx
+   components and paired tests; the existing authenticated
+   universe.tsx, companies/$ticker.tsx and internal/route.tsx routes;
+   new internal/universe-t0*.tsx routes; and generated
+   src/routeTree.gen.ts. Customer-facing behavior remains disabled
+   until separately released.
+
+D. Forward-only, CLI-named migrations in supabase/migrations whose
+   descriptive names contain universe_t0, op039_m7, op039_m2_t0 or
+   op030_t0; generated src/integrations/supabase/types.ts; and, only
+   if required for the governed server boundary,
+   supabase/functions/universe-t0-*/** and supabase/config.toml.
+   Existing migrations must not be rewritten.
+
+E. scripts/universe-t0-*; direct T0 test-script or pinned-dependency
+   changes in package.json and bun.lock; and direct T0 technical
+   contracts, test evidence and handoffs under
+   docs/governance/op039/UNIVERSE_T0_*. No other governance authority
+   file or workflow is included.
+
+A listed existing file may change only in the lines needed to connect
+the T0 capability. No unrelated OP039, OP030, customer, access or
+financial semantics are authorized. A material requirement or effect
+outside this maximum returns to competent authority.
+
+3. GRANTS A/B AND BUILD HOLD
+
+Grant A prospectively covers design, construction, bounded repair,
+migration-source preparation, local disposable-database tests,
+synthetic end-to-end proof, disabled-by-default integration and PR
+preparation within section 2. Grant B covers tests, static and
+security checks, evidence, independent review and re-review.
+
+I approve a corresponding campaign-specific Build Hold exception for
+these construction and review effects after this decision becomes
+qualified and effective. General Build Hold remains active elsewhere.
+Writing a migration or writer implementation does not authorize its
+application to a shared, staging or production database. No live
+database mutation, real issuer admission, external data retrieval
+without source authority, deployment, customer access, publication,
+credential change or automated privileged action follows from this
+construction grant.
+
+New database access must be least-privilege and separately testable.
+The T0 history reader must not obtain M2 writer rights. New T0 storage
+must preserve immutable originals, distinct decision/admission/
+observation/establishment times, idempotency and attributable
+correction lineage. No source supplied by a caller may be represented
+as independently verified M7, M2 or market truth.
+
+4. SOURCE AND PROFESSIONAL DECISION BOUNDARIES
+
+The executor may design and implement M7 decision persistence and
+reading, governed M2 history reading, market/benchmark observation
+adapters, immutable T0 persistence, orchestration and projections
+within the accepted M7/M2/T0/OP030/customer contracts. The executor
+may not issue an M7 admission decision, invent S2 analytical judgment,
+select an unapproved market provider or financial methodology, or
+turn missing evidence into an affirmative fact. Where a required
+source, policy, entitlement or professional decision is absent, the
+software must fail closed and work may continue on independent
+authorized components.
+
+5. TECHNICAL VALIDATION
+
+Codex remains an engineering executor, not an S6 holder. I
+prospectively submit one task-specific exception to decision 003's
+S6-AUTH-02 prerequisite for NON-PRODUCTION IMPLEMENTATION MERGE ONLY:
+a separate provider-attributable Codex technical/security reviewer,
+independent of preparation and repair, may provide an exact-baseline
+alternative validation finding if independent qualification confirms
+that this Commander exception is allowed by every applicable
+higher-ranking source. Its finding must be identified as an
+alternative Commander-route finding, never as S6-AUTH-02. A FAIL or
+UNRESOLVED result stops that merge.
+
+Where current rules require S6-AUTH-02 without a qualified exception,
+including any deployment that requires it, an actually competent,
+attributable S6 holder or valid task-specific delegate must issue the
+exact-baseline finding. Neither this decision nor an AI review invents
+that holder.
+
+6. DISTINCT CONDITIONAL GRANT C
+
+Separately from Grants A/B, I prospectively approve a campaign-specific
+deterministic Grant C route for implementation PRs in section 2,
+subject to its own independent qualification and effectivity.
+
+I retain authority to bind one independent Codex integration-controller
+task by direct provider-verifiable statement under this decision. The
+controller must have a distinct provider task ID, no authorship or
+repair role on the PR it judges, no technical-validator role on that
+PR, an authenticated evidence channel, and an explicit expiry and
+revocation record. This is the only permitted controller-binding
+procedure; an unnamed agent, GitHub login or builder self-appointment
+is insufficient. A replacement controller requires my direct
+rebinding under this same decision, not a new campaign-scope vote.
+
+Once bound and effective, the controller may issue a deterministic
+MERGE or NO_MERGE disposition for each exact implementation PR only
+after independently checking the full diff and file list, source HEAD,
+target main/base and trees, effective task and Build Hold authority,
+required technical validation, exact-head CI and tests, independent
+review PASS and finding closure, GEAI/materiality, branch protection,
+expiry, revocation and absence of conflict. It must then issue a
+separate, later, exact mutation authorization after a fresh check.
+The bound GitHub transport actor may perform only the authorized
+normal merge. Any HEAD or target-main/base movement invalidates both
+records and requires refreshed checks and records. An independent
+postmerge reviewer verifies the actual merge. No force push, history
+rewrite, branch-protection bypass or self-approval is authorized.
+
+7. QUALIFICATION, EFFECTIVITY AND CONTINUATION
+
+I authorize the bound transport actor to prepare one governance-only
+source-capture PR for this signed decision in the existing OP039
+campaign record, using normal non-force Git operations. The final PR
+number, HEAD, base, diff and provider objects must be frozen after
+preparation. Three independent, provider-attributable CLASS_A /
+DEPTH_3 source, authority and security reviews must return PASS;
+exact-head CI and currentness must PASS. I authorize one normal merge
+of that governance-only PR after those conditions and applicable
+branch protections are satisfied. If main moves, synchronize normally,
+refresh exact-object checks and reviews as required; do not treat an
+old HEAD or base as current.
+
+A separate read-only reviewer must verify the canonical merge,
+first-parent diff, protected Commander source, review returns, CI,
+task/account identity and absence of revocation. The bound transport
+actor may then post one unedited effectivity receipt identifying those
+provider objects. The expanded Grants A/B and Build Hold exception
+become exercisable no earlier than the first valid receipt's GitHub
+created_at time. Grant C additionally requires its separately
+qualified effectivity and actual controller binding before any
+implementation merge.
+
+Recheck authority, identity, scope, sources, dependencies, expiry and
+revocation before each action. This development authority continues
+until the mission is complete, I revoke it, or 2028-12-31T23:59:00Z,
+whichever occurs first; conduct a documented currentness review every
+90 days and suspend affected actions if it is missed. No review
+silently expands scope. Existing exact-object rules govern later
+database application, deployment, real admission, customer release,
+access and publication.
