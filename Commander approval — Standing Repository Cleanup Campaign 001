@@ -1,0 +1,373 @@
+# RAUN — COMMANDER STANDING REPOSITORY CLEANUP CAMPAIGN 001
+
+**Decision ID:** `CMD_RAUN_STANDING_REPOSITORY_CLEANUP_CAMPAIGN_001`
+
+**Repository:** `RaunTechnologies/rallyproof`
+
+**Commander authority source:** `commanderrallyproof/rallyproof-public-decisions`
+
+**Issuing authority:** Human Commander
+
+**Campaign owner:** XO / Chief of Staff
+
+**Execution coordination:** XO
+
+**Technical execution:** S6 / qualified technical executors
+
+**Information management:** IM
+
+**Operational coordination:** S3
+
+**Independent verification:** Qualified independent reviewers / Bodyguard where required
+
+**Commander decision:** APPROVED AS EXACT OBJECT
+
+**Campaign duration:** 30 days from qualified prospective effectivity, unless revoked or superseded.
+
+**Execution effectivity:** PENDING QUALIFICATION — NOT YET EXERCISABLE
+
+**General Build Hold:** ACTIVE outside qualified campaign-specific exceptions.
+
+**Grant C:** NOT GRANTED.
+
+---
+
+## 1. COMMANDER DECISION
+
+The Human Commander hereby approves the establishment of:
+
+`CMD_RAUN_STANDING_REPOSITORY_CLEANUP_CAMPAIGN_001`
+
+This is a standing, bounded development and repository cleanup campaign intended to enable sustained execution of routine, non-material cleanup work without repeated substantive Commander approvals.
+
+The Commander approves the campaign's scope, objectives, organizational coordination and prospective bounded execution model.
+
+This decision does not independently establish technical executor authority, release Build Hold, grant merge authority or bypass existing RAUN qualification requirements.
+
+**COMMANDER INTENT:**
+
+ONE COMMANDER CAMPAIGN APPROVAL → MULTIPLE BOUNDED TASKS → CONTINUOUS EXECUTION → ESCALATION ONLY FOR MATERIAL OR RESERVED DECISIONS.
+
+## 2. MISSION
+
+Improve the quality, usability, consistency, navigation, traceability and maintainability of Rallyproof's repository and operational documentation.
+
+Remove unnecessary administrative friction from routine cleanup work.
+
+Enable sustained, bounded execution across multiple tasks, pull requests, technical executors and work sessions.
+
+Preserve effective governance, security, independent verification and professional ownership boundaries.
+
+## 3. AUTHORIZED WORK CATEGORIES
+
+### A — Documentation Hygiene
+
+- Correct misleading informational status descriptions.
+- Repair broken references and links.
+- Clarify canonical versus historical documentation.
+- Correct obsolete informational wording.
+- Improve readability and consistency.
+- Preserve historical evidence and provenance.
+
+### B — Information Architecture
+
+- Improve README files and navigation indexes.
+- Consolidate redundant informational references.
+- Improve discoverability of authoritative documents.
+- Clarify source relationships and document ownership.
+- Maintain existing informational registers.
+
+### C — Repository Housekeeping
+
+- Correct non-semantic formatting and metadata defects.
+- Remove demonstrably redundant informational duplication while preserving required historical evidence.
+- Repair documentation-only validation defects.
+- Improve documentation structure without changing controlling authority or runtime behavior.
+
+### D — Operational Information Hygiene
+
+- Prepare corrections to COP-related informational metadata.
+- Reconcile informational references against verified canonical sources.
+- Identify outdated or misleading operational descriptions.
+- Route changes affecting COP meaning, currentness or attestation through competent S3 authority.
+
+### E — Bounded Repair and Continuity
+
+- Repair findings within an approved task envelope.
+- Run applicable tests and CI.
+- Obtain independent reviews.
+- Perform bounded non-material repairs and requalification.
+- Continue after non-material repository drift where existing currentness rules permit.
+- Replace technical executors or sessions through valid existing identity and task-binding mechanisms.
+
+## 4. INITIAL APPROVED WORK PACKAGE
+
+The existing Commander-approved decision:
+
+`CMD_RAUN_INFORMATION_HYGIENE_BATCH_001`
+
+is designated as the initial intended work package.
+
+**Task A:**
+
+1. `01_HQ/CURRENT_WORKSTREAMS.md`
+2. `01_HQ/RAUN_CONTROL_PLANE.md`
+3. `01_HQ/README.md`
+
+**Task B:**
+
+4. `01_HQ/CURRENT_OPERATIONS.md`
+
+The existing Commander decision and its supporting evidence shall be reused.
+
+No repeated substantive Commander approval is required for the same previously approved scope.
+
+The original source qualification and applicable professional authority requirements remain mandatory.
+
+## 5. STANDING EXECUTION AUTHORITY
+
+Once the campaign is qualified and effective, XO may coordinate successive bounded cleanup tasks within the approved campaign scope.
+
+Each admitted task must identify:
+
+- Task identifier and objective.
+- Exact permitted file scope.
+- Concrete defect or improvement.
+- Expected non-material effect.
+- Responsible technical executor and attributable identity/task binding.
+- Applicable effective execution authority.
+- Effective Build Hold exception covering the action.
+- Required professional-owner consultation.
+- Testing and independent review requirements.
+- Integration route and stop conditions.
+
+Task admission within this campaign is routine execution of approved Commander intent, not a new substantive Commander decision.
+
+No new Commander approval is required solely because:
+
+- A new bounded cleanup task is admitted.
+- An additional permitted documentation file is identified.
+- A new technical executor or session is validly bound.
+- Non-material technical repair changes PR HEAD.
+- Main advances non-materially.
+- CI or review must be repeated.
+- A task requires bounded repair and requalification.
+
+These continuations remain subject to applicable effective authority, materiality and currentness requirements.
+
+## 6. STANDING GRANTS A/B
+
+The campaign shall reuse effective RAUN standing Grants A/B where independently qualified.
+
+**Grant A — Bounded implementation**
+
+Permits qualified executors to implement, test, document and repair within the effective task and Build Hold envelopes.
+
+**Grant B — Qualification orchestration**
+
+Permits qualified executors to obtain applicable independent reviews, collect CI evidence, route findings and perform authorized bounded repairs.
+
+Neither grant is created or activated merely by publication of this decision.
+
+Existing qualification and effectivity requirements remain controlling.
+
+**Grant C — Merge disposition**
+
+NOT GRANTED.
+
+Merge authority must be established separately through competent, valid and attributable authorization.
+
+## 7. CAMPAIGN-SCOPED BUILD HOLD EXCEPTION
+
+The Human Commander prospectively approves a bounded Build Hold exception for documentation-only, non-semantic cleanup tasks validly admitted under this campaign.
+
+This prospective approval is not immediately exercisable.
+
+The exception becomes exercisable only after the applicable existing requirements for Commander source qualification, campaign effectivity, technical direction, executor binding, independent qualification and action-time authorization have been satisfied.
+
+The exception does not extend to:
+
+- Product/runtime implementation.
+- Database or writer mutation.
+- Security or access changes.
+- Governance or doctrine changes.
+- Production deployment.
+- Customer publication.
+- Financial methodology changes.
+- Semantic changes to authoritative contracts.
+
+General Build Hold remains active outside the effective, bounded exception.
+
+## 8. ORGANIZATIONAL RESPONSIBILITIES
+
+**Commander**
+
+Retains final and reserved authority, material scope expansion, doctrine/governance decisions and revocation.
+
+**XO / Chief of Staff**
+
+Owns campaign coordination, task prioritization, cross-staff routing, authority-gap resolution, progress visibility and escalation.
+
+**S1**
+
+Retains professional authority over role definitions, personnel responsibilities and role-readiness matters.
+
+**S3 / OPS**
+
+Retains professional authority over COP, operational status, current operations and operational attestations.
+
+**S6**
+
+Retains technical implementation and validation authority within effective upstream requirements and technical authority.
+
+**Information Manager**
+
+Supports information quality, document structure, traceability, navigation and source consistency without independently changing professional or command authority.
+
+**Independent reviewer / Bodyguard**
+
+Performs independent verification where required, without builder self-qualification.
+
+No role or authority holder is newly appointed or activated solely through this campaign order.
+
+## 9. EXECUTION CONTINUITY
+
+The campaign is intended to support multiple successive and parallel bounded cleanup tasks.
+
+A new ChatGPT conversation, Codex session or technical executor does not automatically inherit execution authority.
+
+Each technical executor must have valid provider-attributable identity and task binding under existing governance.
+
+Once validly bound, routine technical execution may continue without new substantive Commander approval while campaign authority, scope, Build Hold coverage and other applicable conditions remain effective.
+
+No new executor registry, authority resolver, governance subsystem or approval mechanism is authorized.
+
+Reuse existing RAUN mechanisms.
+
+## 10. REVIEW, CI AND MERGE
+
+All applicable mandatory testing, security, CI, review, currentness, branch-protection and postmerge requirements remain effective.
+
+Independent review may be manual, independently conducted through Codex, or automated where the selected mechanism is qualified and permitted.
+
+This order does not require activation or use of a paid automated Review Set.
+
+Normal execution sequence:
+
+EFFECTIVE CAMPAIGN → BOUNDED TASK ADMISSION → AUTHORIZED IMPLEMENTATION → TEST/CI → INDEPENDENT REVIEW → BOUNDED REPAIR IF NECESSARY → VALID MERGE AUTHORITY → NORMAL GUARDED MERGE → INDEPENDENT POSTMERGE READBACK.
+
+Completed review findings shall be preserved unless relevant material drift requires renewed examination.
+
+## 11. NON-GRANTS
+
+This campaign does not authorize:
+
+- New governance or doctrine.
+- New organizational authority holders.
+- Changes to security policy or access rights.
+- Database or production mutation.
+- Runtime or application implementation outside separately approved authority.
+- Customer-facing release or publication.
+- Financial methodology or analytical decisions.
+- Material changes to canonical contracts.
+- General Build Hold release.
+- Automatic merge.
+- Branch-protection bypass.
+- Waiver of mandatory independent review.
+- Waiver of required CI or currentness checks.
+- Unrestricted technical executor authority.
+- Self-approval or self-qualification where independence is required.
+
+Material or unresolved questions must be escalated to competent authority.
+
+## 12. STOP AND ESCALATION
+
+Stop the affected task when:
+
+- Scope exceeds the campaign.
+- Required authority is absent or expired.
+- Executor identity or task binding cannot be verified.
+- Build Hold coverage is missing.
+- Material professional or governance meaning may change.
+- Mandatory review or CI fails.
+- Security concerns, conflicts or revocation arise.
+
+Other independently qualified tasks may continue where unaffected.
+
+Only genuinely material or reserved decisions shall require renewed Commander involvement.
+
+## 13. DURATION AND REVOCATION
+
+The campaign's intended operating period is 30 days beginning at its independently qualified prospective effectivity timestamp.
+
+The Commander may revoke or amend the campaign through a valid attributable decision.
+
+Expiry, revocation or loss of mandatory authority conditions prevents further execution.
+
+Historical evidence and completed authorized work remain preserved.
+
+## 14. SUCCESS CRITERIA
+
+The campaign shall demonstrate:
+
+1. Completion of Information Hygiene Batch 001.
+2. Multiple subsequent bounded cleanup tasks without repeated substantive Commander approval.
+3. Successful continuity across multiple PRs and executor sessions.
+4. Proportionate independent review and valid integration.
+5. Preservation of professional ownership and safety boundaries.
+6. Escalation only for material or reserved decisions.
+
+## 15. EFFECTIVITY INSTRUCTION
+
+XO is directed to coordinate the shortest valid path to campaign effectivity using existing RAUN governance.
+
+XO shall:
+
+1. Verify this exact Commander-approved source and provider identity.
+2. Reuse existing effective authority and qualification evidence.
+3. Coordinate necessary S1/S3/S6 professional boundaries.
+4. Establish valid campaign-scoped Build Hold effectivity.
+5. Establish provider-verifiable technical executor bindings.
+6. Obtain applicable independent qualification.
+7. Complete required canonical integration and readback.
+8. Start authorized cleanup execution once all applicable gates are satisfied.
+
+Do not request repeated substantive Commander approval for already-approved campaign scope.
+
+Do not invent new governance mechanisms where existing ones suffice.
+
+**This decision is prospectively approved but does not itself establish execution effectivity or merge authority.**
+
+---
+
+# HUMAN COMMANDER APPROVAL
+
+**Decision:** `CMD_RAUN_STANDING_REPOSITORY_CLEANUP_CAMPAIGN_001`
+
+**Disposition:** APPROVED AS EXACT OBJECT
+
+**Approved scope:** Standing 30-day repository cleanup and information hygiene campaign as defined in this document.
+
+**Standing execution intent:** Multiple bounded, non-material cleanup tasks without repeated substantive Commander decisions.
+
+**Grants A/B:** Prospective use of separately effective standing authority, subject to qualification and task binding.
+
+**Build Hold:** Prospective campaign-scoped exception approved, subject to independent qualification and effectivity.
+
+**Grant C:** NOT GRANTED.
+
+**General Build Hold:** Remains active outside qualified exceptions.
+
+**Campaign owner:** XO / Chief of Staff.
+
+**Effectivity:** PENDING — requires qualification and attributable prospective effectivity evidence.
+
+**Issuing authority:** Human Commander.
+
+**Commander direction:**
+
+Execute the campaign through existing RAUN governance. Preserve safety, independence and professional ownership. Eliminate unnecessary approval repetition for routine work. Escalate only material or reserved matters.
+
+**COMMANDER APPROVED — PROSPECTIVE CAMPAIGN AUTHORITY.**
+
+**END OF COMMANDER DECISION**
