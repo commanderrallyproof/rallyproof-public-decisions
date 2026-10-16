@@ -1,0 +1,71 @@
+# RAUN — COMMANDER CAMPAIGN GRANT C AMENDMENT 001
+
+**Decision ID:** `CMD_RAUN_REPOSITORY_CLEANUP_CAMPAIGN_GRANT_C_001`
+
+**Repository:** `RaunTechnologies/rallyproof`
+
+**Amends:** `CMD_RAUN_STANDING_REPOSITORY_CLEANUP_CAMPAIGN_001`
+
+**Original Commander source:** `afb0002019d5a7b0625298d459a3bff8b87f0d67`
+
+**Authority:** Human Commander
+
+**Disposition:** APPROVED PROSPECTIVELY — SUBJECT TO QUALIFIED EFFECTIVITY
+
+## 1. Commander Decision
+
+I authorize **Standing Grant C — Bounded Campaign Merge Authority** for Repository Cleanup Campaign 001, in addition to the previously approved Grants A/B.
+
+The purpose is to permit continuous implementation, testing, independent review, bounded repair and merge of eligible campaign PRs without repeated substantive Commander approval.
+
+## 2. Authorized Scope
+
+Grant C applies exclusively to qualified documentation-only, non-semantic repository cleanup tasks admitted under this campaign.
+
+It permits multiple eligible PRs during the effective 30-day campaign period.
+
+The initial scope is:
+
+- `01_HQ/CURRENT_WORKSTREAMS.md`
+- `01_HQ/RAUN_CONTROL_PLANE.md`
+- `01_HQ/README.md`
+- `01_HQ/CURRENT_OPERATIONS.md`, subject to competent S3 control.
+
+## 3. Merge Conditions
+
+Each merge requires:
+
+- Effective campaign authority and qualified Build Hold exception.
+- Valid executor and action-time merge-authority binding.
+- Exact PR identity and currentness verification.
+- Required CI success.
+- Eligible independent review with PASS.
+- No unresolved material or security findings.
+- Compliance with branch protection and existing governance.
+- An attributable action-time merge disposition and technical mutation authorization.
+
+No additional Commander approval is required for routine eligible PRs satisfying these conditions.
+
+## 4. Solo Commander
+
+The campaign operates under the existing D1 Solo Commander model.
+
+No additional human staff appointments are required merely to fill advisory roles.
+
+AI advisory work does not independently satisfy protected professional, security or independent-review requirements.
+
+## 5. Exclusions
+
+This amendment does not authorize production deployment, database mutation, security-policy changes, governance amendments, protected financial methodology changes, material operational changes, self-review or bypass of repository protections.
+
+## 6. Continuity and Effectivity
+
+Grant C becomes exercisable only after independent qualification, valid executor/merge-authority binding and prospective effectivity evidence under existing RAUN governance.
+
+The existing campaign's 30-day term is unchanged.
+
+The original campaign decision remains controlling except for its explicit `Grant C: NOT GRANTED` restriction, which this amendment prospectively replaces upon qualified effectivity.
+
+**COMMANDER APPROVED — STANDING CAMPAIGN GRANT C, PROSPECTIVE.**
+
+**END OF COMMANDER DECISION**
