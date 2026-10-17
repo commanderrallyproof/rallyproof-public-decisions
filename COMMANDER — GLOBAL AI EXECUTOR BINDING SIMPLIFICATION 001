@@ -1,0 +1,88 @@
+# RAUN / RALLYPROOF
+## COMMANDER — GLOBAL AI EXECUTOR BINDING SIMPLIFICATION 001
+
+**FROM:** Human Commander  
+**REPOSITORY:** `RaunTechnologies/rallyproof`  
+**DECISION:** APPROVED PROSPECTIVELY — SUBJECT TO REQUIRED INDEPENDENT QUALIFICATION AND EFFECTIVITY
+
+### 1. Commander intent
+
+Rallyproof skal kunne utføre kontinuerlig, avgrenset og allerede autorisert utviklingsarbeid gjennom ChatGPT, Codex, Claude og andre kvalifiserte AI-verktøy uten særskilt identifisering, autorisasjon eller admission av hver individuell AI-kjøring eller samtale.
+
+Én gyldig oppgaveautorisasjon og en autentisert teknisk GitHub-konto skal være tilstrekkelig som utførergrunnlag for ordinære repository-operasjoner innenfor uendret oppgave, myndighet og omfang.
+
+### 2. Global applicability
+
+Denne forenklingen skal gjelde alle eksisterende og fremtidige Rallyproof-utviklingskampanjer som har gyldig oppgaveautorisasjon og nødvendig myndighet.
+
+Dette inkluderer avgrenset arbeid innen Cleanup, S2, HCL og andre utviklingsområder, uten at beslutningen i seg selv autoriserer nye oppgaver eller unntak fra gjeldende Build Hold.
+
+### 3. Removed requirements
+
+For ordinær, autorisert repository-utvikling kreves ikke lenger:
+
+- Individuell ChatGPT-, Codex- eller Claude-session-ID.
+- Separat `execution_id` for hver AI-kjøring.
+- Ny pre-action execution-instance admission ved samtale- eller modellbytte.
+- Individuell AI-session-attestasjon eller særskilt handoff-godkjenning når oppgave, myndighet, teknisk konto og omfang forblir uendret.
+
+Dette endrer bare krav som gjelder individuell AI-kjøringsidentitet. Det opphever ikke nødvendig oppgaveautorisasjon, operasjonssporbarhet eller andre selvstendige sikkerhets- og myndighetskontroller.
+
+### 4. Technical execution identity
+
+Den autentiserte tekniske GitHub-kontoen `kompanikollen-arch`, GitHub ID `255761231`, kan brukes til autoriserte repository-operasjoner.
+
+GitHubs faktiske aktør-, applikasjons-, commit-, PR- og tidsstempelbevis benyttes til operasjonssporbarhet.
+
+GitHub-identiteten er ikke en generell Commander-delegasjon og gir ikke adgang til arbeid utenfor godkjent oppgave og myndighet.
+
+### 5. Controlling provisions
+
+Denne beslutningen gir mandat til å gjennomføre en generell, prospektiv forenkling av motstridende individuelle AI-kjøringskrav i:
+
+- Standing Development Campaign Grants A/B, inkludert bindingsbestemmelser.
+- PR #1203s provider-nøytrale utviklingsmodell, særlig §3.
+- Relevante GEC-bestemmelser, i den utstrekning de faktisk pålegger individuell AI-kjøringsbinding for ordinære repository-operasjoner.
+- Eksisterende kampanje- og oppgavedokumenter som inneholder tilsvarende krav.
+
+Der endringen krever formell endring av bindende standarder, skal gjeldende amendment- og effektivitetsprosedyre følges. En generell tolkningsbeslutning alene skal ikke anses å ha endret en bindende kontrakt dersom formell endring er obligatorisk.
+
+Eksisterende Cleanup-forenkling gjennom PR #1205 beholdes.
+
+### 6. Preserved controls
+
+Følgende krav består uendret:
+
+- Gyldig Commander- og oppgaveautorisasjon.
+- Kompetent teknisk og profesjonell myndighet der det kreves.
+- Build Hold og kvalifiserte unntak.
+- GitHub-sporbarhet.
+- CI, tester og currentness.
+- Uavhengig review.
+- Separat merge-autorisasjon.
+- Branch protection.
+- Sikkerhet, databasetilgang, produksjon, deployering og beskyttede finansielle beslutninger.
+
+Denne beslutningen gir ingen generell Build Hold-frigivelse eller automatisk merge-rett.
+
+### 7. Implementation instruction
+
+Gjennomfør den minste nødvendige formelle endringen i eksisterende styringsgrunnlag.
+
+Gjenbruk tidligere godkjente beslutninger og kvalifiseringer.
+
+Unngå nye identitetsregistre, AI-session-adaptersystemer, repetitive godkjenningsprosesser og kampanjespesifikke unntak der den generelle regelen er tilstrekkelig.
+
+Innhent nødvendig uavhengig review, integrer gjennom normal beskyttet prosess og registrer prospektiv effekt når gjeldende vilkår er oppfylt.
+
+### 8. Final disposition
+
+**COMMANDER INTENT: APPROVED.**
+
+**GLOBAL SIMPLIFICATION: APPROVED PROSPECTIVELY.**
+
+**EXECUTION EFFECTIVITY: SUBJECT TO REQUIRED QUALIFICATION.**
+
+Ingen ny substansiell Commander-godkjenning skal kreves for uendret godkjent omfang når denne forenklingen er effektiv.
+
+**END OF COMMANDER DECISION**
