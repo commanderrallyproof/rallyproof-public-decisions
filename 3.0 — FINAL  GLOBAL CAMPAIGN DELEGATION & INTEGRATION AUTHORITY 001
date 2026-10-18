@@ -1,0 +1,455 @@
+RALLYPROOF
+
+3.0 — FINAL GLOBAL CAMPAIGN DELEGATION & INTEGRATION AUTHORITY 001
+
+VERSION: 3.0 — FINAL COMMANDER ORDER
+DECISION STATUS: ISSUED BY HUMAN COMMANDER
+AUTHORITY: Human Commander
+TO: All Rallyproof Sections, Campaign Operators, AI Executors, Independent Reviewers and Authorized Integrators
+REPOSITORY: RaunTechnologies/rallyproof
+DECISION TYPE: General Standing Delegation
+SCOPE: Existing and future effectively authorized campaigns
+APPLICATION: Prospective only
+OPERATIONAL EFFECTIVITY: Subject to required qualification and effectivity registration
+PRIORITY: HIGH — RESTORE NORMAL DELEGATED DEVELOPMENT
+
+SUPERSEDES: Global Campaign Delegation & Integration Authority 001, Version 2.0, published at commit 8e92836670483b47cb60e95ea1d8bd36184a719f.
+
+⸻
+
+1. COMMANDER DECISION
+
+I, Human Commander, hereby issue this decision establishing the intended general delegation model for Rallyproof development campaigns.
+
+THIS IS AN ISSUED COMMANDER DECISION.
+
+It is not a proposal, consultation draft or request for further substantive Commander approval.
+
+The decision is final as to Commander intent and approved delegation policy.
+
+Its operational exercise remains subject to applicable authority-establishment, independent qualification, prospective effectivity and action-time requirements.
+
+No agent shall confuse the absence of operational effectivity with the absence of a Commander decision.
+
+No repeated substantive Commander approval is required merely to confirm the intent already established by this order.
+
+⸻
+
+2. COMMANDER INTENT
+
+Rallyproof shall operate as a professional, efficient and independently functioning AI organization.
+
+Human Commander establishes missions, objectives, authority boundaries and reserved decisions.
+
+Competent delegated functions shall subsequently identify, admit, prioritize, execute, review and integrate ordinary work within those boundaries.
+
+An effectively authorized campaign should normally be capable of completing its ordinary development lifecycle, from task admission through authorized integration into main, without repeated Commander decisions.
+
+The purpose is to eliminate unnecessary administrative friction while preserving legitimate authority, traceability, security and independent controls.
+
+⸻
+
+3. CORE OPERATING PRINCIPLE
+
+ONE CAMPAIGN APPROVAL — CONTINUOUS DELEGATED EXECUTION
+
+Once a campaign has been competently approved and made effective, authorized campaign functions shall be permitted, within their effective authority, to:
+
+1. Identify development needs.
+2. Create and prioritize subordinate tasks.
+3. Admit ordinary tasks within the campaign mandate.
+4. Plan and execute authorized work.
+5. Create and update pull requests.
+6. Conduct required testing and validation.
+7. Obtain mandatory independent review.
+8. Qualify changes for integration.
+9. Perform authorized protected merges into main.
+10. Independently verify and document completed integration.
+
+A new Commander decision shall not be required solely because an ordinary task or development stage follows a previously approved stage.
+
+The controlling question is whether the specific action is covered by effective delegated authority.
+
+⸻
+
+4. RELATIONSHIP TO EXISTING GOVERNANCE
+
+This decision shall be implemented through Rallyproof’s existing authority structure.
+
+The following remain applicable:
+
+* Effective Standing Grants A/B.
+* Competently established Grant C authorities.
+* Effective Commander-approved campaign mandates.
+* Existing section and professional authority.
+* Effective global AI professional execution simplifications.
+* Build Hold restrictions and qualified exceptions.
+* Independent review and verification standards.
+* CI, currentness and repository integration controls.
+* Branch protection.
+* Reserved Commander decisions.
+
+No parallel governance system shall be created.
+
+Existing effective authority shall be reused wherever sufficient.
+
+This decision establishes Commander approval for a general delegated task-admission rule, subject to competent integration into the governing authority contract and valid prospective effectivity.
+
+It also establishes the intended general integration operating model, without independently creating or expanding Grant C.
+
+⸻
+
+5. GENERAL DELEGATED TASK ADMISSION
+
+Competent and authorized campaign functions shall have standing delegated authority to admit ordinary subordinate tasks within effectively authorized campaigns once this delegation has become operationally effective.
+
+A task is eligible when:
+
+1. It falls substantively within the campaign’s approved mission.
+2. It remains within the approved scope and permitted effects.
+3. The responsible function possesses the required authority.
+4. Applicable technical and professional requirements are satisfied.
+5. Required Build Hold coverage exists before restricted implementation.
+6. No expressly reserved decision is required.
+7. The campaign remains valid, effective and unrevoked.
+
+Task admission shall be recorded through the ordinary campaign workflow with an identifiable connection to the controlling authority.
+
+No separate Commander decision is required for each eligible routine task.
+
+This provision is intended to establish actual delegated authority following valid effectivity, rather than merely express an organizational preference.
+
+⸻
+
+6. CAMPAIGN-SPECIFIC LIMITATIONS PREVAIL
+
+General delegation shall never expand an individual campaign’s approved mandate.
+
+The following take precedence over the general task-admission presumption:
+
+* Express campaign-specific restrictions.
+* Reserved decisions.
+* Approved scope and effect boundaries.
+* Expiry and revocation conditions.
+* Applicable professional and technical authority limitations.
+* Stricter effective governing requirements.
+
+The absence of an explicit prohibition does not itself establish authority.
+
+A task must be affirmatively covered by the effective campaign mandate and applicable delegation.
+
+However, already established authority shall not require repeated substantive confirmation for every ordinary task.
+
+⸻
+
+7. DELEGATED PROFESSIONAL EXECUTION
+
+Once a task has been validly admitted, competent authorized functions may execute the work within their effective grants.
+
+Ordinary execution may include:
+
+* Development and documentation.
+* Technical problem-solving.
+* Testing and validation.
+* Bounded repairs.
+* Pull-request preparation and updates.
+* Review coordination.
+* Resolution of qualified review findings.
+* Preparation for authorized integration.
+
+Existing effective AI professional execution simplifications shall apply.
+
+A change of AI conversation, model or execution instance alone shall not trigger additional identity or authorization requirements where the effective governing contract already permits continuation under the same valid task, technical account and authority binding.
+
+This provision does not create professional authority for an otherwise unauthorized actor.
+
+⸻
+
+8. GENERAL DELEGATED INTEGRATION MODEL
+
+AUTHORIZED MERGE TO MAIN
+
+Competent authorized integrators shall be able to merge qualified campaign changes into main without renewed substantive Commander approval when the exact integration action is covered by effective authority.
+
+Every protected integration must satisfy:
+
+1. Effective campaign authority.
+2. Valid task admission.
+3. Approved change scope.
+4. Applicable Build Hold coverage.
+5. Required tests and CI.
+6. Mandatory independent review.
+7. Exact PR HEAD and target-base verification.
+8. Applicable currentness requirements.
+9. Effective Grant C or other competent integration authorization.
+10. Applicable per-PR disposition requirements.
+11. Exact mutation authorization where required.
+12. Branch protection and other mandatory controls.
+13. Independent postmerge verification.
+
+INTEGRATION AUTHORITY IS ACTION-SPECIFIC.
+
+This order does not itself grant unrestricted merge authority.
+
+It does not create, activate or expand Grant C.
+
+Where an effective integration contract requires PR-specific authorization, that requirement remains binding.
+
+Technical readiness, CI success and independent review do not independently establish merge authority.
+
+Where effective delegated integration authority already covers the exact action, no additional Commander approval shall be demanded merely because integration is occurring.
+
+Future competent amendments may establish broader campaign-level integration delegations without requiring a new organizational operating model.
+
+⸻
+
+9. INDEPENDENT CONTROLS
+
+Mandatory controls remain in force.
+
+No actor may self-approve work where independent review is required.
+
+No actor may create its own missing authority through interpretation of this order.
+
+Existing qualified evidence shall be reused when its object, scope, assumptions and currentness remain valid.
+
+Reviews shall be proportionate to actual requirements and changes.
+
+No unnecessary repeat review, new approval mechanism or additional administrative gate shall be introduced without a concrete governing requirement.
+
+⸻
+
+10. EXCEPTION-BASED COMMANDER ESCALATION
+
+Human Commander shall be involved when a matter genuinely exceeds effective delegated authority or requires a reserved decision.
+
+Examples include:
+
+* Establishing a new campaign.
+* Materially expanding an existing campaign.
+* Creating or expanding professional or technical authority.
+* Granting new Build Hold exceptions.
+* Amending reserved governance requirements.
+* Authorizing an integration not covered by effective delegated authority.
+* Accepting risks reserved to Commander.
+* Resolving authority conflicts that cannot be addressed by competent delegated functions.
+
+Routine work already within effective authority shall proceed without escalation.
+
+A NEW TASK IS NOT AUTOMATICALLY A NEW COMMANDER DECISION.
+
+Escalation shall identify the exact missing authority or reserved decision.
+
+⸻
+
+11. STANDARD OPERATING SEQUENCE
+
+All Rallyproof campaign functions shall apply the following sequence:
+
+CAMPAIGN → SCOPE → AUTHORITY → ADMIT → EXECUTE → REVIEW → INTEGRATE → VERIFY
+
+CAMPAIGN
+
+Verify that the campaign is approved and effective.
+
+SCOPE
+
+Verify that the proposed task falls within the campaign mandate.
+
+AUTHORITY
+
+Verify competent delegation and applicable restrictions.
+
+ADMIT
+
+Admit the task and record its connection to effective authority.
+
+EXECUTE
+
+Complete authorized work.
+
+REVIEW
+
+Complete mandatory testing, qualification and independent verification.
+
+INTEGRATE
+
+Perform protected integration only when the exact merge action is authorized.
+
+VERIFY
+
+Independently verify and document the result.
+
+OPERATING RULE:
+
+When all applicable conditions are satisfied:
+
+PROCEED.
+
+When a concrete mandatory condition is missing:
+
+STOP THE AFFECTED ACTION AND ESCALATE THE EXACT BLOCKER.
+
+Do not restart already completed approval processes without relevant contrary evidence.
+
+⸻
+
+12. EXISTING AND FUTURE CAMPAIGNS
+
+Following valid operational effectivity, this general delegation shall apply prospectively to existing and future effectively authorized campaigns, within their respective mandates.
+
+Existing campaigns shall not require renewed substantive approval solely to adopt this general operating model.
+
+Future campaigns shall be covered when their own authority becomes effective, without a separate adoption decision for each campaign.
+
+Campaign-specific restrictions always prevail.
+
+This order does not:
+
+* Activate an ineffective campaign.
+* Extend an expired campaign.
+* Revive revoked authority.
+* Expand an approved mandate.
+* Grant new Build Hold exceptions.
+* Authorize historical actions retroactively.
+* Remove existing integration controls.
+
+⸻
+
+13. FIRST PRACTICAL ACCEPTANCE TEST
+
+CLEANUP CAMPAIGN 001 — PR #1209
+
+Campaign authority record: GitHub Issue #1200
+PR: #1209
+Task: XO-NAV-001
+File: 01_HQ/HANDOVER/XO_HANDOVER.md
+
+Following valid effectivity, this case shall serve as the first practical acceptance test of the delegated operating model.
+
+The responsible competent functions shall verify:
+
+1. Campaign effectivity and validity.
+2. Task eligibility within the mandate.
+3. Valid delegated task admission.
+4. Required Build Hold coverage.
+5. Reusability of existing independent review.
+6. Current CI and exact-object verification.
+7. Effective integration authority.
+8. Protected merge eligibility.
+9. Independent postmerge readback.
+
+The test shall return:
+
+FULL PASS: Task admission through verified integration completed without a new Commander decision.
+
+PARTIAL PASS: Task admission and execution are authorized, but integration is blocked by an identified existing authority requirement.
+
+FAIL: The delegation cannot lawfully or operationally cover the proposed task.
+
+This order does not automatically admit, authorize or merge PR #1209.
+
+⸻
+
+14. IMPLEMENTATION DIRECTIVE
+
+The responsible competent functions are directed to implement this issued Commander decision through Rallyproof’s existing authority-establishment and qualification processes.
+
+Implementation shall:
+
+1. Identify the actual effective Standing Development Campaign Authority contract.
+2. Reconcile the current Standing Grants A/B and Grant C requirements.
+3. Reuse existing effective global AI execution simplifications.
+4. Prepare the minimum necessary formal amendment establishing general delegated task admission.
+5. Preserve campaign-specific restrictions and existing integration controls.
+6. Conduct required independent qualification.
+7. Complete authorized protected integration and prospective effectivity registration.
+8. Verify the resulting effective authority through independent readback.
+
+No parallel governance structure shall be created.
+
+No repeated substantive Commander approval of this same decision shall be requested merely because implementation requires technical or procedural steps.
+
+Any separate action expressly reserved to Commander under effective superior authority remains reserved until competently authorized.
+
+⸻
+
+15. SOURCE SUPERSESSION AND STATUS CLARITY
+
+This Version 3.0 replaces the previously published Version 2.0 as the intended controlling Commander decision.
+
+The previous version contained incorrect proposal-status language inconsistent with the Commander’s intended issuance.
+
+Its historical Git record shall be preserved for traceability, but it shall not be used as the current Commander decision once this replacement has been validly published and authenticated.
+
+Agents shall distinguish the following states:
+
+COMMANDER DECISION: ISSUED
+
+The Human Commander has made the substantive decision.
+
+OPERATIONAL EFFECTIVITY: PENDING QUALIFICATION
+
+The new delegation cannot be exercised until applicable authority-establishment and prospective effectivity conditions have been satisfied.
+
+IMPLEMENTATION: AUTHORIZED ONLY WITHIN EXISTING EFFECTIVE GRANTS
+
+This decision does not bypass Build Hold, reserved governance actions, independent review or protected integration requirements.
+
+NO RETROACTIVE AUTHORITY
+
+The decision does not validate earlier unauthorized actions.
+
+An issued Commander decision shall not be relabeled as a proposal merely because operational effectivity remains pending.
+
+⸻
+
+16. FINAL COMMANDER DIRECTIVE
+
+Rallyproof shall operate through genuine delegated authority.
+
+Human Commander sets the mission and boundaries.
+
+Competent campaign functions admit and manage ordinary tasks.
+
+Authorized AI functions execute.
+
+Independent functions verify.
+
+Authorized integrators merge qualified changes into main.
+
+Only genuine exceptions and reserved decisions return to Commander.
+
+ONE CAMPAIGN APPROVAL.
+
+DELEGATED TASK ADMISSION.
+
+PROFESSIONAL EXECUTION.
+
+INDEPENDENT CONTROL.
+
+AUTHORIZED MERGE TO MAIN.
+
+This is the Commander’s issued direction for Rallyproof’s normal campaign operating model.
+
+⸻
+
+FINAL STATUS
+
+COMMANDER DECISION: ISSUED
+
+SUBSTANTIVE COMMANDER APPROVAL: GRANTED
+
+OPERATIONAL EFFECTIVITY: PENDING REQUIRED QUALIFICATION
+
+GENERAL DELEGATED TASK-ADMISSION AUTHORITY: NOT YET EXERCISABLE
+
+NEW GRANT C AUTHORITY: NOT GRANTED
+
+GENERAL BUILD HOLD RELEASE: NOT GRANTED
+
+RETROACTIVE AUTHORITY: NONE
+
+NEXT ACTION: Competent implementation, independent qualification and prospective effectivity through existing Rallyproof governance.
+
+END OF COMMANDER ORDER
