@@ -1,0 +1,376 @@
+RALLYPROOF
+
+GLOBAL CAMPAIGN DELEGATION & INTEGRATION AUTHORITY 001
+
+VERSION: 2.0 — Bodyguard Conditions Incorporated
+STATUS: PROPOSED — PENDING REPOSITORY RECONCILIATION AND COMMANDER ISSUANCE
+FROM: Human Commander — Proposed Decision
+TO: All Rallyproof Sections, Campaign Operators, AI Executors, Independent Reviewers and Authorized Integrators
+REPOSITORY: RaunTechnologies/rallyproof
+DECISION TYPE: General Standing Delegation
+SCOPE: Existing and future effectively authorized campaigns
+EFFECT: Prospective only, following valid establishment and qualification
+PRIORITY: HIGH — RESTORE NORMAL DELEGATED DEVELOPMENT
+
+⸻
+
+1. COMMANDER INTENT
+
+Rallyproof skal fungere som en profesjonell, effektiv og selvstendig AI-organisasjon.
+
+Human Commander fastsetter mål, mandat, rammer og begrensninger.
+
+Kompetente delegerte funksjoner skal deretter kunne ta opp, prioritere, gjennomføre, kontrollere og integrere ordinært arbeid innenfor disse rammene.
+
+En godkjent kampanje skal normalt kunne gjennomføre hele arbeidsløpet fra oppgaveopptak til merge i main uten gjentatte Commander-beslutninger.
+
+Denne beslutningen skal redusere unødvendig administrasjon uten å svekke myndighetsgrunnlag, sporbarhet, sikkerhet eller uavhengig kontroll.
+
+⸻
+
+2. CORE OPERATING PRINCIPLE
+
+ONE CAMPAIGN APPROVAL — CONTINUOUS DELEGATED EXECUTION
+
+Når en kampanje er gyldig godkjent og effektiv, skal kompetente kampanjefunksjoner kunne gjennomføre ordinære oppgaver innenfor kampanjens mandat.
+
+Dette omfatter:
+
+1. Identifisere forbedringsbehov.
+2. Opprette og prioritere oppgaver.
+3. Ta opp oppgaver innenfor kampanjens mandat.
+4. Planlegge og gjennomføre arbeidet.
+5. Opprette og oppdatere Pull Requests.
+6. Gjennomføre nødvendige tester.
+7. Innhente obligatorisk uavhengig review.
+8. Kvalifisere endringen for integrasjon.
+9. Gjennomføre autorisert beskyttet merge til main.
+10. Verifisere og dokumentere resultatet.
+
+Ny Commander-godkjenning skal ikke kreves for handlinger som er dekket av effektiv delegert myndighet.
+
+⸻
+
+3. RELATIONSHIP TO EXISTING AUTHORITY
+
+Denne beslutningen skal integreres i Rallyproofs eksisterende myndighetsstruktur.
+
+Den skal anvendes sammen med:
+
+* Gjeldende Standing Grants A/B.
+* Eksisterende og fremtidige kompetent etablerte Grant C-fullmakter.
+* Effektive Commander-godkjente kampanjemandater.
+* Gjeldende seksjons- og fagmyndighet.
+* Effektive globale AI-kjøringsforenklinger.
+* Gjeldende Build Hold-bestemmelser og kvalifiserte unntak.
+* Eksisterende uavhengige review-, CI- og integrasjonskontroller.
+
+Ingen parallell governance-struktur skal etableres.
+
+Eksisterende effektive fullmakter skal gjenbrukes direkte.
+
+Denne beslutningen etablerer, etter gyldig ikrafttredelse, en generell delegasjon for ordinært oppgaveopptak innenfor godkjente kampanjer.
+
+Den etablerer også en generell delegasjonsmodell for integrasjon, men erstatter ikke eksisterende krav om kompetent og effektiv Grant C-dekning eller annen gyldig integrasjonsmyndighet for den konkrete mergehandlingen.
+
+Eksisterende kampanjemandater definerer fortsatt hva organisasjonen har myndighet til å gjøre.
+
+⸻
+
+4. GENERAL DELEGATED TASK ADMISSION AUTHORITY
+
+Kompetente, autoriserte kampanjefunksjoner gis stående myndighet til å ta opp ordinære enkeltoppgaver innenfor effektive kampanjer.
+
+Denne myndigheten gjelder når oppgaven:
+
+1. Naturlig og saklig faller innenfor kampanjens formål.
+2. Ligger innenfor kampanjens godkjente omfang.
+3. Ikke overskrider tekniske eller organisatoriske begrensninger.
+4. Har nødvendig Build Hold-dekning før handlinger som krever slik dekning.
+5. Ikke krever en uttrykkelig reservert beslutning.
+
+Oppgaveopptaket skal dokumenteres gjennom den ordinære arbeidsprosessen med identifiserbar kobling til kampanjens myndighetsgrunnlag.
+
+Det kreves ikke en ny individuell Commander-beslutning for hvert ordinære oppgaveopptak.
+
+Denne bestemmelsen er ment å gi faktisk myndighet, ikke bare uttrykke en organisatorisk intensjon.
+
+⸻
+
+5. DELEGATED AUTHORITY PRESUMPTION
+
+Når en kampanje er effektiv og en kompetent funksjon har gyldig delegert myndighet, skal ordinære oppgaver som klart ligger innenfor kampanjens mandat, behandles som dekket av denne delegasjonen.
+
+Det skal ikke kreves:
+
+* Ny individuell Commander-beslutning.
+* Ny kampanjeaktivering.
+* Separat myndighetsprosess for hver ordinære oppgave.
+* Gjentatt bekreftelse av allerede effektiv delegasjon.
+* Nye AI-identitets- eller sesjonsbindinger som ikke følger av gjeldende effektive krav.
+
+Den ordinære arbeidsprosessen skal gi tilstrekkelig sporbarhet for oppgave, omfang, myndighet og kontroll.
+
+CAMPAIGN-SPECIFIC LIMITATIONS PREVAIL
+
+Den generelle presumsjonen for oppgaveopptak gjelder bare når kampanjens effektive mandat faktisk tillater oppgaven.
+
+Uttrykkelige kampanjespesifikke begrensninger, reserverte beslutninger, utløpsvilkår og myndighetsbegrensninger gjelder foran denne generelle delegeringen.
+
+Fravær av et uttrykkelig forbud etablerer ikke i seg selv myndighet dersom kampanjens mandat ikke dekker det foreslåtte arbeidet.
+
+Presumsjonen kan ikke brukes til å utvide kampanjens mandat eller overstyre eksisterende begrensninger.
+
+Samtidig skal kampanjen ikke måtte bevise sin allerede effektive myndighet på nytt for hver ordinære oppgave.
+
+⸻
+
+6. DELEGATED EXECUTION AUTHORITY
+
+Når en oppgave er gyldig tatt opp, kan kompetente AI-funksjoner gjennomføre arbeidet innenfor gjeldende fullmakter.
+
+Dette inkluderer:
+
+* Utvikling og dokumentasjon.
+* Teknisk problemløsning.
+* Testing og feilretting.
+* Opprettelse og oppdatering av PR-er.
+* Forberedelse til uavhengig kontroll.
+* Korrigering av identifiserte avvik.
+
+Gjeldende globale AI-kjøringsforenklinger skal anvendes.
+
+Det skal ikke opprettes unødvendige nye myndighetsledd eller gjentatte godkjenningskrav.
+
+⸻
+
+7. GENERAL DELEGATED INTEGRATION AUTHORITY
+
+AUTHORIZED MERGE TO MAIN
+
+Kompetente, autoriserte integratorer skal kunne merge ferdig kvalifiserte endringer til main uten ytterligere Commander-godkjenning når den konkrete integrasjonen er dekket av effektiv delegert myndighet.
+
+Dette krever:
+
+1. Effektivt kampanjemandat.
+2. Gyldig oppgaveopptak.
+3. Endring innenfor godkjent omfang.
+4. Relevant Build Hold-dekning.
+5. Beståtte obligatoriske tester.
+6. Gjennomført obligatorisk uavhengig review.
+7. Kontroll av eksakt PR HEAD og relevant currentness.
+8. Oppfyllelse av gjeldende Grant C- og per-PR-krav.
+9. Oppfyllelse av branch protection og øvrige integrasjonskontroller.
+10. Effektiv integratormyndighet for den konkrete handlingen.
+
+Når disse vilkårene er oppfylt, kan autorisert integrator gjennomføre beskyttet merge.
+
+Ingen ytterligere Commander-godkjenning kreves utelukkende fordi endringen skal integreres i main.
+
+INTEGRATION AUTHORITY IS ACTION-SPECIFIC
+
+Denne stående delegeringen oppretter eller utvider ikke Grant C i seg selv.
+
+Beskyttet merge kan gjennomføres uten fornyet Commander-godkjenning bare når en eksisterende effektiv Grant C eller annen kompetent integrasjonsautorisasjon dekker den eksakte integrasjonshandlingen.
+
+Der gjeldende integrasjonskontrakt krever PR-spesifikk autorisasjon, gjelder dette kravet fortsatt.
+
+Teknisk klarhet, uavhengig review og bestått CI etablerer ikke i seg selv mergefullmakt.
+
+Denne modellen skal samtidig være kompatibel med fremtidige, kompetent etablerte kampanjeomfattende integrasjonsfullmakter.
+
+⸻
+
+8. INDEPENDENT CONTROLS
+
+Denne beslutningen forenkler gjennomføringen, men opphever ikke nødvendige kontroller.
+
+Følgende gjelder fortsatt:
+
+* Obligatorisk uavhengig review.
+* Gjeldende CI- og testkrav.
+* Build Hold-begrensninger.
+* Branch protection.
+* Kompetent integrasjonsmyndighet.
+* Sporbarhet til gyldig myndighetsgrunnlag.
+* Eksisterende reserverte beslutninger.
+
+Ingen agent kan godkjenne sitt eget arbeid der uavhengighet er obligatorisk.
+
+Tidligere gyldige kvalifiseringer skal gjenbrukes når deres eksakte objekt og forutsetninger fortsatt er gyldige.
+
+Kontrollene skal være forholdsmessige, og unødvendig dobbeltarbeid skal unngås.
+
+⸻
+
+9. EXCEPTION-BASED ESCALATION
+
+Human Commander skal involveres når en beslutning faktisk ligger utenfor effektiv delegert myndighet.
+
+Dette omfatter blant annet:
+
+* Opprettelse av nye kampanjer.
+* Vesentlige endringer av kampanjemandat.
+* Utvidelse av teknisk myndighet.
+* Nye eller utvidede Build Hold-unntak.
+* Reserverte governance-beslutninger.
+* Integrasjon uten nødvendig effektiv myndighet.
+* Reelle myndighetskonflikter som ikke kan løses av kompetent delegert funksjon.
+
+Ordinært arbeid innenfor eksisterende myndighet skal ikke eskaleres.
+
+Ny oppgave betyr ikke automatisk nytt Commander-vedtak.
+
+⸻
+
+10. SIMPLE AGENT OPERATING RULE
+
+Alle Rallyproof-agenter skal følge denne modellen:
+
+1. CAMPAIGN
+Er kampanjen godkjent og effektiv?
+
+2. SCOPE
+Ligger oppgaven innenfor mandatet?
+
+3. AUTHORITY
+Har funksjonen delegert myndighet, og er nødvendige begrensninger oppfylt?
+
+4. ADMIT
+Ta opp oppgaven og dokumenter koblingen til kampanjen.
+
+5. EXECUTE
+Gjennomfør arbeidet.
+
+6. REVIEW
+Gjennomfør nødvendige tester og uavhengig kontroll.
+
+7. INTEGRATE
+Når gjeldende integrasjonsvilkår er oppfylt, gjennomfør autorisert merge til main.
+
+8. VERIFY
+Kontroller resultatet og dokumenter fullføringen.
+
+ESCALATION RULE
+
+Hvis alle nødvendige vilkår er oppfylt:
+
+PROCEED.
+
+Hvis en konkret myndighetsbegrensning hindrer handlingen:
+
+STOP THAT ACTION AND ESCALATE THE EXACT BLOCKER.
+
+Ikke opprett nye prosesser når eksisterende myndighet allerede er tilstrekkelig.
+
+⸻
+
+11. EXISTING AND FUTURE CAMPAIGNS
+
+Denne generelle delegeringsmodellen skal gjelde prospektivt for eksisterende og fremtidige effektive kampanjer innenfor deres godkjente mandater.
+
+Eksisterende kampanjer trenger ikke godkjennes på nytt bare fordi denne regelen innføres.
+
+Eksisterende begrensninger, utløp og tilbakekallingsvilkår videreføres.
+
+PROSPECTIVE APPLICATION TO FUTURE CAMPAIGNS
+
+Denne delegeringen gjelder for fremtidige kampanjer fra det tidspunktet deres myndighet blir gyldig effektiv, uten krav om en separat innføringsprosess for hver kampanje.
+
+Anvendelsen er fortsatt underlagt kampanjens effektive mandat, spesifikke begrensninger og gjeldende myndighetskontrakter.
+
+Ingen kampanje aktiveres, forlenges eller gjenopplives gjennom denne generelle delegeringen.
+
+Beslutningen:
+
+* Gir ikke tilbakevirkende myndighet.
+* Utvider ikke eksisterende kampanjemandater.
+* Gir ikke automatisk nye Build Hold-unntak.
+* Opphever ikke obligatoriske integrasjonskontroller.
+
+⸻
+
+12. FIRST PRACTICAL ACCEPTANCE TEST
+
+CLEANUP CAMPAIGN 001 — PR #1209
+
+Authority record: GitHub Issue #1200
+PR: #1209
+Task: XO-NAV-001
+File: 01_HQ/HANDOVER/XO_HANDOVER.md
+
+PR #1209 skal benyttes som første praktiske test av den nye modellen når den er gyldig etablert.
+
+Kompetent delegert funksjon skal kontrollere:
+
+1. At kampanjens myndighet faktisk er effektiv.
+2. At XO-NAV-001 ligger innenfor mandatet.
+3. At oppgaven kan tas opp under den nye delegasjonen.
+4. At nødvendig Build Hold-dekning foreligger.
+5. At eksisterende gyldig review kan gjenbrukes.
+6. At CI, currentness og øvrige integrasjonskrav er oppfylt.
+7. At kompetent integrator har nødvendig effektiv myndighet.
+8. At beskyttet merge kan gjennomføres.
+
+Testresultatet skal klassifiseres som:
+
+FULL PASS: Hele kjeden fra oppgaveopptak til verifisert main gjennomføres uten ny Commander-beslutning.
+
+PARTIAL PASS: Oppgaveopptak og gjennomføring fungerer, men integrasjon hindres av en konkret, eksisterende myndighetsbegrensning.
+
+FAIL: Den nye delegeringen kan ikke anvendes lovlig eller operativt innenfor kampanjens mandat.
+
+PR #1209 blir ikke automatisk autorisert eller merget gjennom denne beslutningen.
+
+⸻
+
+13. IMPLEMENTATION AND EFFECTIVITY
+
+Denne beslutningen skal etableres gjennom eksisterende kompetent myndighets- og kvalifiseringsprosess.
+
+Før ikrafttredelse skal ansvarlig funksjon:
+
+1. Identifisere korrekt overordnet myndighetsdokument.
+2. Verifisere gjeldende Standing Grants A/B og relevante Grant C-bestemmelser.
+3. Verifisere gjeldende globale AI-kjøringsforenklinger.
+4. Innarbeide den nye delegeringsregelen uten å opprette parallell governance.
+5. Gjennomføre obligatorisk uavhengig kvalifisering.
+6. Registrere gyldig prospektivt effektivitetsgrunnlag.
+
+Eksisterende gyldige myndighets- og kvalifiseringsmekanismer skal gjenbrukes.
+
+Det skal ikke etableres nye permanente godkjenningsledd eller kontrollprosesser uten konkret behov.
+
+Beslutningen er ikke operativ før gjeldende krav til gyldig etablering og effektivitetsfastsettelse er oppfylt.
+
+⸻
+
+14. FINAL COMMANDER DIRECTIVE
+
+Rallyproof skal være en organisasjon som gjennomfører arbeid innenfor delegert myndighet.
+
+Human Commander fastsetter oppdraget og rammene.
+
+Kompetente kampanjefunksjoner tar opp og leder ordinære oppgaver.
+
+Autoriserte AI-funksjoner gjennomfører arbeidet.
+
+Uavhengige kontrollfunksjoner verifiserer kvalitet og etterlevelse.
+
+Autoriserte integratorer merger ferdig kvalifiserte endringer til main.
+
+Bare reelle unntak og reserverte beslutninger eskaleres.
+
+ONE CAMPAIGN APPROVAL.
+DELEGATED TASK ADMISSION.
+PROFESSIONAL EXECUTION.
+INDEPENDENT CONTROL.
+AUTHORIZED MERGE TO MAIN.
+
+Dette er den tilsiktede normale arbeidsmodellen for Rallyproof.
+
+⸻
+
+DECISION STATUS: PROPOSED — NOT ISSUED — NOT EFFECTIVE
+
+NEXT ACTION: Targeted repository reconciliation, followed by competent Human Commander issuance and required effectivity qualification.
