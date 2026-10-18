@@ -1,0 +1,38 @@
+RALLYPROOF — PR #1257 BOUNDED AUTHORITY RESOLUTION
+
+FROM: Human Commander
+AUTHORITY SOURCE: Authenticated commanderrallyproof GitHub account
+REPOSITORY: RaunTechnologies/rallyproof
+PR: #1257
+HEAD: 7d0030234abd8121b059ea044306b05240f7fef5
+
+COMMANDER DECISION
+
+Jeg bekrefter den allerede utstedte Global Campaign Delegation & Integration Authority 001 v3.0.
+
+For å gjennomføre denne beslutningen gir jeg et prospektivt, oppgavespesifikt og begrenset Build Hold-unntak for forberedelse, kvalifisering og ikke-produksjonsintegrasjon av PR #1257.
+
+Unntaket gjelder utelukkende:
+
+1. governance/candidates/CMD_RAUN_STANDING_DEVELOPMENT_CAMPAIGN_AUTHORITY_001.md
+2. 01_HQ/COMMANDER/DEVELOPMENT_CAMPAIGN_ORDER_TEMPLATE.md
+
+Unntaket gjelder bare den kvalifiserte governance-endringen som implementerer v3.0.
+
+Det gir ikke generell Build Hold-frigivelse, Grant C, produksjonsmyndighet, deploymyndighet eller automatisk mergeautorisasjon.
+
+Jeg godkjenner at PR #1257 føres videre gjennom eksisterende beskyttet integrasjonsprosess.
+
+Før merge kreves fortsatt:
+
+* Uavhengig kvalifisering av denne avgrensede beslutningen.
+* Verifisert prospektiv effekt.
+* Gyldig PR-spesifikk integrasjonsmyndighet.
+* Oppdatert eksakt-HEAD CI og review.
+* Nødvendig separat mutasjonsautorisasjon.
+* Normal beskyttet merge.
+* Uavhengig postmerge-verifisering.
+
+Ingen ny substansiell Commander-godkjenning av v3.0 kreves.
+
+COMMANDER DISPOSITION: APPROVED — BOUNDED PR #1257 AUTHORITY RESOLUTION.
