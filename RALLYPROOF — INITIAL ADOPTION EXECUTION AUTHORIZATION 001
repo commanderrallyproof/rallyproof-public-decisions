@@ -1,0 +1,143 @@
+# RALLYPROOF — INITIAL ADOPTION EXECUTION AUTHORIZATION 001
+
+**FROM:** Human Commander  
+**TO:** S6 / Codex Technical Executor  
+**THROUGH:** XO — Chief of Staff  
+**REPOSITORY:** `RaunTechnologies/rallyproof`  
+**DATE:** 2026-10-19  
+**CLASS:** One-time bounded nonproduction implementation authorization  
+**STATUS:** PROPOSED — NOT EFFECTIVE UNTIL AUTHENTICATED AND QUALIFIED
+
+## 1. Purpose
+
+Authorize the initial technical implementation of the already-approved **Development Authority Reconciliation 001**, without reopening its substantive approval.
+
+Authoritative Commander decision:
+
+`commanderrallyproof/rallyproof-public-decisions`
+
+Commit:
+
+`31e92af2155a3a7b2c795d1ce3712fabf4e3176c`
+
+This authorization is limited to implementation preparation and one draft pull request.
+
+It does not grant merge authority.
+
+## 2. Authorized executor
+
+**GitHub execution identity:**
+
+`kompanikollen-arch#255761231`
+
+Execution must remain attributable to this identity and the authorized task.
+
+Technical credentials do not independently expand this authorization.
+
+## 3. Exact repository scope
+
+**Repository:**
+
+`RaunTechnologies/rallyproof`
+
+**Verified implementation base:**
+
+`3ea54ba3d777058642a2f896d522746db5104585`
+
+**Authorized files:**
+
+1. `governance/candidates/CMD_RAUN_STANDING_DEVELOPMENT_CAMPAIGN_AUTHORITY_001.md`
+2. `governance/authority/S6_TECHNICAL_SYSTEMS_AUTHORITY_ENVELOPE_001.md`
+3. `01_HQ/COMMANDER/DEVELOPMENT_CAMPAIGN_ORDER_TEMPLATE.md`
+
+No other repository files may be modified under this authorization.
+
+## 4. Authorized actions
+
+Subject to prospective effectivity and action-time checks, the identified executor may:
+
+- Create one isolated implementation branch or worktree from the verified base.
+- Edit only the three authorized files.
+- Commit those changes.
+- Run nonproduction validation and tests.
+- Push the implementation branch.
+- Open one draft pull request against `main`.
+- Correct implementation defects within the same approved scope.
+- Prepare evidence for independent qualification.
+
+The implementation must remain faithful to the existing Commander decision.
+
+No additional substantive governance decisions are delegated.
+
+## 5. One-time Build Hold exception
+
+A narrowly bounded nonproduction Build Hold exception is approved for the exact actions and file scope in §§3–4.
+
+The exception does not apply to other campaigns, repositories, files or activities.
+
+The general Build Hold remains active outside this authorization.
+
+## 6. Explicit prohibitions
+
+This instrument does **not** authorize:
+
+- Merge into `main`.
+- Deployment.
+- Production mutation.
+- Database or protected writer operations.
+- Customer publication.
+- Methodology changes outside the approved scope.
+- Expansion of the three-file implementation.
+- Activation of the future standing Grant C before its valid effectivity.
+- Use of the future standing Build Hold exception to justify its own initial adoption.
+- Bypassing independent review or protected branch requirements.
+
+**NO MERGE. NO DEPLOY. NO PUBLICATION.**
+
+## 7. Currentness
+
+The authorized implementation is anchored to the verified base:
+
+`3ea54ba3d777058642a2f896d522746db5104585`
+
+Before execution, the executor must confirm the current repository state.
+
+If `main` has moved, the executor must establish whether the movement is materially relevant.
+
+Unrelated drift may be reconciled only through an already-effective mechanism that permits the specific action.
+
+This instrument does not independently authorize an expanded file scope or a materially different implementation.
+
+## 8. Qualification and effectivity
+
+This instrument must be:
+
+1. Captured in a competent authenticated Commander source.
+2. Verified against the exact source identity and scope.
+3. Independently qualified through the applicable existing process.
+4. Registered or made effective through the applicable competent mechanism.
+5. Read back as effective before the first authorized repository mutation.
+
+Publication of this text alone does not establish operational effectivity.
+
+**APPROVED SOURCE != EFFECTIVE EXECUTION AUTHORITY.**
+
+## 9. Expiry and consumption
+
+This is a single-purpose authorization.
+
+It may be used only for the initial implementation of Development Authority Reconciliation 001.
+
+It expires upon completion of the authorized draft-PR preparation, explicit revocation or supersession, whichever occurs first.
+
+Further protected integration requires separate valid authority.
+
+## 10. Commander disposition
+
+The substantive Development Authority Reconciliation 001 decision remains approved and unchanged.
+
+This instrument grants only the minimum bounded execution authority necessary to prepare its initial implementation.
+
+**AUTHORIZED UPON COMPETENT EFFECTIVITY.**
+
+**NO MERGE AUTHORITY GRANTED.**
