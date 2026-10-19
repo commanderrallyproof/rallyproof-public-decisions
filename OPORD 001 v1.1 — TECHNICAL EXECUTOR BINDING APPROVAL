@@ -1,0 +1,61 @@
+# RALLYPROOF — COMMANDER DECISION 058
+
+## OPORD 001 v1.1 — TECHNICAL EXECUTOR BINDING APPROVAL
+
+**FROM:** Human Commander — Rallyproof  
+**DATE:** 20. oktober 2026  
+**DECISION:** APPROVED AND ORDERED
+
+Jeg godkjenner herved den avgrensede tekniske utførerbindingen foreslått i:
+
+`CMD-RALLYPROOF-HQ-OPORD-001-V1-1-TECHNICAL-EXECUTOR-BINDING-001`
+
+**SOURCE COMMIT:**
+
+`c87ecaf226cef77f932eabcaed85481388b8a89f`
+
+**SOURCE BLOB:**
+
+`e640aeeb0ba74bf75b1420b7e161473d8fab0202`
+
+Denne godkjenningen gjør den eksakte foreslåtte utførerbindingen operativ fra autentisert publisering av denne beslutningen, uten tilbakevirkende effekt.
+
+**TASK:**
+
+`XO-S6-HQ-OPORD-001-V1-1-PUBLICATION-001`
+
+**AUTHORIZED TECHNICAL EXECUTOR:**
+
+`GITHUB:kompanikollen-arch#255761231`
+
+**REPOSITORY:**
+
+`RaunTechnologies/rallyproof`
+
+**EXACT TARGET:**
+
+`01_HQ/OPORD.md`
+
+**APPROVED DOCUMENT:**
+
+`HQ-OPORD-001 v1.1`
+
+**SIZE:** `20,564 bytes`
+
+**SHA-256:**
+
+`f89d22d01fa1246ae7d5a543d11ef856928f7ea79a6087377efb57f6b917f008`
+
+Alle avgrensninger og kontrollkrav i den refererte anmodningen gjelder uendret.
+
+Godkjenningen omfatter branch, eksakt filoppdatering, commit, draft-PR, CI og overlevering til uavhengig review.
+
+Den gir ikke generell Writer Authority, direkte endring av beskyttet `main`, merge, deploy eller konstituerende effektivitetsregistrering.
+
+XO skal verifisere denne beslutningens kilde og currentness. S6 kan deretter gjennomføre den autoriserte tekniske publiseringen innenfor eksisterende kontroller.
+
+Ingen ny OPORD-adopsjon eller generell Build Hold-godkjenning kreves.
+
+**HUMAN COMMANDER — RALLYPROOF**
+
+**FINAL DECISION: APPROVED AND ORDERED**
