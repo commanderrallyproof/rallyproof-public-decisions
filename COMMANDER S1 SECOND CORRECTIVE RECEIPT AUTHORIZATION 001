@@ -1,0 +1,116 @@
+# RALLYPROOF — COMMANDER S1 SECOND CORRECTIVE RECEIPT AUTHORIZATION 001
+
+**FROM:** Human Commander  
+**THROUGH:** XO — Chief of Staff  
+**DATE:** 2026-10-19  
+**DECISION CLASS:** Exact one-time technical correction  
+**STATUS:** DECISION CANDIDATE — OPERATIVE ONLY UPON AUTHENTICATED COMMANDER PUBLICATION AND REQUIRED INDEPENDENT QUALIFICATION
+
+## 1. Existing authority preserved
+
+Jeg opprettholder uten substansiell endring:
+
+- **S1 Organizational Registration Delegation 001:** `ff12a192962996305ee3984eaedf927b3618bb37`
+- **Initial S1 Actor Binding 001:** `c877c7f263533483f51eecb215bb286381e49abe`
+- **S1 Executor Attribution & One-Time Effectivity Publication 001:** `3492be1105a717c319907fbf19892541ea8cd877`
+- **First corrective publication authorization:** `ea3ce76b95fed995f08f18d8ad7b3fb8b883bebf`
+
+Eksisterende organisatorisk identitet `RALLYPROOF-S1-AGENT-001`, delegasjon `S1-ORGANIZATIONAL-REGISTRATION-001` og tidligere uavhengig kvalifisert aktørbinding bevares.
+
+## 2. Exact defect and consumed authorizations
+
+Første GitHub-kommentar `6270637031`, publisert `2026-10-19T15:15:08Z`, tilfredsstiller ikke kravet om eksakt frossen tekst på grunn av Markdown-/whitespace-avvik.
+
+Andre GitHub-kommentar `6271130654`, publisert `2026-10-19T15:40:13Z`, tilfredsstiller heller ikke kravet. Syv Unicode-tegn ble erstattet av spørsmålstegn under teknisk publisering.
+
+**Second published SHA-256:**
+
+`bedfaf4baae9354ec191354568e1d14dde99f98d54139b99ae540992ee650936`
+
+**Required original SHA-256:**
+
+`5469935bbf401291f96ec5a613108595796de0ed26bda8481b32f87783c0a266`
+
+Begge tidligere tekniske engangsfullmakter er konsumert. Ingen av de to kommentarene etablerer S1-effektivitet.
+
+## 3. One-time second correction authorization
+
+Jeg autoriserer prospektivt nøyaktig én ytterligere korrigerende toppnivåkommentar:
+
+**Repository:** `RaunTechnologies/rallyproof`  
+**Repository ID:** `1283348607`  
+**Issue:** `#1260`  
+**Issue ID:** `5925570659`  
+**Technical executor:** `kompanikollen-arch#255761231`  
+**Competent registrar:** Human Commander
+
+Dette er et uttrykkelig, avgrenset teknisk unntak fra de konsumerte publiseringsbegrensningene. Det gjelder bare den tredje publiseringshandlingen.
+
+De to tidligere kommentarene skal bevares som ugyldige historiske bevis.
+
+## 4. Exact permitted body
+
+Den tredje kommentaren skal inneholde uendret originaltekst fra:
+
+`RALLYPROOF_S1_EFFECTIVITY_RECEIPT_001_FROZEN.md`
+
+**Required UTF-8 bytes:** `5890`
+
+**Required SHA-256:**
+
+`5469935bbf401291f96ec5a613108595796de0ed26bda8481b32f87783c0a266`
+
+Ingen Unicode-erstatning, Markdown-normalisering, trimming, endring av linjeskift eller tilleggstekst er tillatt.
+
+## 5. Mandatory prepublication controls
+
+Før publisering kreves:
+
+1. Autentisert Commander-kilde for denne beslutningen.
+2. Målrettet uavhengig Bodyguard PASS for den nye tekniske fullmakten og eksakt uendret kvittering.
+3. Bekreftet fortsatt gyldighet for tidligere Commander-kilder, S1-aktørbinding og organisatorisk identitet.
+4. Bekreftet status som ugyldige for kommentarene `6270637031` og `6271130654`.
+5. Ingen annen gyldig eller konkurrerende kvittering, relevant tilbakekall eller myndighetsdrift.
+6. Bekreftet teknisk utfører og gyldig Build Hold-behandling for nøyaktig én issue-kommentar.
+7. Sikker UTF-8-overføring med lokal SHA-256-kontroll og ingen automatisk retry.
+
+Ethvert uavklart obligatorisk vilkår gir STOP.
+
+## 6. Prospective effectivity
+
+**EFFECTIVE_FROM = the third corrective GitHub comment's provider created_at, subject to successful independent postpublication readback.**
+
+De to tidligere `created_at`-tidspunktene kan ikke benyttes som effektivitetstidspunkt.
+
+**EXPIRY:** 90 dager etter gyldig `EFFECTIVE_FROM`.
+
+**FIRST REVIEW:** Senest 30 dager etter gyldig `EFFECTIVE_FROM`.
+
+**SUBDELEGATION:** PROHIBITED.
+
+Ingen tilbakevirkning.
+
+## 7. Mandatory independent readback
+
+Etter den tredje publiseringen kreves separat uavhengig kontroll av:
+
+- Eksakt repository, issue og ny kommentar-ID.
+- GitHub-forfatterens login og user ID.
+- Provider `created_at` og `updated_at`.
+- Nøyaktig body på 5 890 UTF-8-bytes og forventet SHA-256.
+- Gyldig Commander-fullmakt, aktørbinding, currentness og fravær av konflikter.
+- At ingen annen gyldig effektivitetskvittering finnes.
+
+Bare etter uavhengig PASS kan delegasjonen klassifiseres som effektiv.
+
+## 8. Limits and disposition
+
+Denne beslutningen gir ingen ny S1-myndighet, rolleholderutnevnelse, generell GitHub Writer Authority, repository-filendring, merge, deploy, kundepublisering, selvaktivering eller generell Build Hold-frigivelse.
+
+**ONE THIRD PUBLICATION ONLY.**
+
+**TWO EARLIER RECEIPTS INVALID.**
+
+**NO RETROACTIVE EFFECTIVITY.**
+
+**NO SUBSTANTIVE GOVERNANCE CHANGE.**
