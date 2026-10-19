@@ -1,0 +1,233 @@
+# RALLYPROOF — COMMANDER DECISION
+## IM REGISTRATION AUTHORITY MATURITY 001
+### INITIAL ADOPTION REGISTRATION AUTHORIZATION & STANDING IM DELEGATION DIRECTION
+
+**FROM:** Human Commander  
+**TO:** XO — Chief of Staff  
+**EXECUTION SUPPORT:** S1 / IM / S6  
+**INDEPENDENT QUALIFICATION:** Bodyguard  
+**REPOSITORY:** `RaunTechnologies/rallyproof`  
+**DATE:** 2026-10-19  
+**STATUS:** PROPOSED — NOT EFFECTIVE UNTIL COMPETENT QUALIFICATION AND EFFECTIVITY
+
+---
+
+## 1. COMMANDER INTENT
+
+Etablere en enklere, gjenbrukbar og myndighetsmessig korrekt modell for registrering av allerede autoriserte beslutninger i Rallyproof.
+
+Commander skal fatte substansielle beslutninger.
+
+Kompetente fagmyndigheter skal kvalifisere sine respektive forutsetninger.
+
+IM skal forvalte autoritative kilder, proveniens og registrering innenfor gyldig myndighet.
+
+En autorisert teknisk GitHub-utfører skal kunne gjennomføre den eksakte registreringsoperasjonen.
+
+Uavhengig kontroll skal bekrefte resultatet.
+
+**REDUCE FRICTION. PRESERVE AUTHORITY.**
+
+## 2. EXISTING COMMANDER DECISIONS — PRESERVED
+
+Følgende beslutninger forblir godkjent og skal ikke gjenåpnes uten konkrete motstridende bevis.
+
+**Development Authority Reconciliation 001**
+
+Commander repository:
+
+`commanderrallyproof/rallyproof-public-decisions`
+
+Commit:
+
+`31e92af2155a3a7b2c795d1ce3712fabf4e3176c`
+
+**Initial Adoption Execution Authorization 001**
+
+Commit:
+
+`cab9f9fd1208ac28844a2679a4a3c8ad2bc12b0a`
+
+Source blob:
+
+`ef1dbdd12d3b1faede48f0db307841796bc6df88`
+
+Tidligere uavhengig kvalifisering av Initial Adoption-autorisasjonens substans og avgrensede Build Hold-unntak bevares.
+
+Denne beslutningen endrer ikke den godkjente substansen, filomfanget eller eksisterende begrensninger.
+
+## 3. ONE-TIME INITIAL ADOPTION REGISTRATION AUTHORIZATION
+
+Commander godkjenner prospektivt én oppgavebundet registreringsoperasjon for Initial Adoption Execution Authorization 001, betinget av at alle nedenstående krav er oppfylt.
+
+Formålet er å registrere den allerede godkjente autorisasjonens operative effekt gjennom eksisterende kompetent effektivitetsmekanisme.
+
+### 3.1 Registreringsmyndighet
+
+XO skal identifisere og kvalifisere den kompetente registreringsruten.
+
+En registrator kan ikke utlede myndighet alene fra teknisk GitHub-tilgang, IM-rollebetegnelse eller denne beslutningens eksistens.
+
+Den konkrete registreringshandlingen krever en gyldig, attribuerbar og oppgavebundet myndighetskjede før publisering.
+
+### 3.2 Teknisk utfører
+
+For den avgrensede registreringsoperasjonen angis følgende forventede tekniske utfører:
+
+`kompanikollen-arch#255761231`
+
+Teknisk utførelse skal være bundet til den kompetent autoriserte registreringshandlingen.
+
+Denne angivelsen gir ikke selvstendig IM-, Commander-, S6-, merge- eller generell writer-myndighet.
+
+### 3.3 Registreringsmål
+
+XO og S6 skal kvalifisere ett eksakt GitHub issue eller én PR som registreringsmål.
+
+Målet skal være identifiserbart, relevant for Initial Adoption og egnet for varig etterkontroll.
+
+Ingen vilkårlig eksisterende PR eller issue kan brukes.
+
+Før publisering skal registreringsordren fastsette:
+
+- Eksakt repository og repository-ID.
+- Eksakt issue-/PR-nummer.
+- Autorisasjonscommit og kildeblob.
+- Registratoridentitet.
+- Eksakt kvitteringstekst.
+- Kompetent myndighetsreferanse.
+- Påkrevd uavhengig kvalifisering.
+- Duplikatkontroll.
+- Stoppvilkår.
+
+### 3.4 Prospektiv effekt
+
+Registreringen kan først gi operativ effekt når den kompetente effektivitetsmekanismen tillater dette og samtlige obligatoriske forutsetninger er oppfylt.
+
+Ingen retroaktiv effekt er autorisert.
+
+En teknisk publisert kommentar er ikke i seg selv tilstrekkelig bevis på gyldig effekt.
+
+## 4. MANDATORY INDEPENDENT CONTROL
+
+Før registrering skal nødvendig uavhengig kvalifisering være dokumentert.
+
+Etter publisering skal en separat uavhengig reviewer kontrollere den faktiske GitHub-kvitteringen, inkludert:
+
+1. Eksakt repository og målobjekt.
+2. Kommentar-ID.
+3. Registratorens `user.id` og `user.login`.
+4. GitHubs faktiske `created_at`.
+5. `updated_at` og eventuell redigering.
+6. Eksakt publisert innhold.
+7. Autorisasjonskilde og kildeintegritet.
+8. Kompetent registreringsmyndighet.
+9. Fravær av dupliserte eller motstridende kvitteringer.
+10. Gjeldende effektivitetsvilkår og currentness.
+
+Ved manglende eller motstridende bevis skal resultatet være:
+
+**REGISTRATION BLOCKED / EFFECTIVITY PENDING.**
+
+## 5. STANDING IM REGISTRATION MATURITY — COMMANDER DIRECTION
+
+Commander godkjenner videreutvikling og kvalifisering av følgende stående myndighetskandidat:
+
+**IM PRE-AUTHORIZED EFFECTIVITY REGISTRATION — STANDING BOUNDED TASK-CLASS DELEGATION**
+
+Denne retningen godkjenner arbeidet med modellen, men gjør ikke den foreslåtte delegeringen effektiv.
+
+XO og S1 skal bruke eksisterende Rally OS v2-delegasjonsarkitektur.
+
+IM skal definere den operative registreringskontrakten.
+
+S6 skal kvalifisere den tekniske utførerbindingen.
+
+Bodyguard skal gjennomføre nødvendig uavhengig kvalifisering.
+
+### 5.1 Tiltenkt avgrensning
+
+Den stående delegeringen skal bare gjelde registrering av effekt for beslutninger der:
+
+- Kompetent myndighet allerede har godkjent substansen.
+- Beslutningen uttrykkelig tillater registreringsbasert effektivering.
+- Alle objektive effektivitetsvilkår er oppfylt.
+- Ingen ny substansiell Commander-vurdering gjenstår.
+- Eksakt objekt, omfang og kildeidentitet er dokumentert.
+- Currentness og fravær av tilbakekalling er verifisert.
+- Kompetent IM-holder eller delegate er attribuerbart etablert.
+- Påkrevd teknisk utførerbinding er gyldig.
+- Uavhengig kontroll kan gjennomføres.
+
+Manglende vilkår skal føre til STOP, ikke skjønnsmessig effektivering.
+
+### 5.2 Rolleholder og aktivering
+
+S1 skal identifisere korrekt kompetent rute for etablering av en faktisk IM-holder eller oppgavebundet delegate.
+
+Ingen rolleholder kan utledes fra en chat, modellidentitet, rollepakke eller GitHub-konto.
+
+Rolleholder, delegering, aktivering og utøvelsesmyndighet skal være separat sporbare.
+
+### 5.3 Eksisterende IM-myndighet
+
+IM-AUTH-01, IM-AUTH-02, IM-AUTH-03 og IM-AUTH-04 bevares.
+
+Den foreslåtte stående delegeringen skal ikke skjules som en tolkning eller presisering av IM-AUTH-03.
+
+Dersom registreringshandlingen selv skaper en underliggende effektivitets-overgang, kreves uttrykkelig kompetent myndighet for dette.
+
+## 6. PROHIBITIONS
+
+Denne beslutningen gir ikke:
+
+- Ny substansiell beslutningsmyndighet til IM.
+- Generell IM-aktivering.
+- Selvutnevnelse av rolleholder.
+- Generell GitHub writer-myndighet.
+- Generell Build Hold-frigivelse.
+- Nye Build Hold-unntak uten kompetent grunnlag.
+- Merge til `main`.
+- Deploy eller produksjonsendring.
+- Kundepublisering.
+- Metodikk- eller doktrineendring.
+- Omgåelse av uavhengig kontroll.
+- Tilbakevirkende effektivering.
+- Rett til å aktivere fremtidig Grant C gjennom sin egen foreslåtte myndighet.
+
+**NO BOOTSTRAP. NO MERGE. NO DEPLOY.**
+
+## 7. EXECUTION AND ESCALATION
+
+XO leder gjennomføringen og samordner S1, IM, S6 og Bodyguard.
+
+Allerede bestått kilde- og substanskvalifisering skal gjenbrukes.
+
+Ingen ny fullstendig governance-review skal gjennomføres uten konkrete motstridende bevis.
+
+XO skal eskalere bare faktiske myndighetsmangler eller beslutninger som ligger utenfor denne avgrensningen.
+
+Initial Adoption-piloten skal prioriteres uavhengig av om den fremtidige stående IM-delegeringen er ferdig.
+
+## 8. EFFECTIVITY
+
+Denne Commander-beslutningen må autentiseres, kvalifiseres og gjøres effektiv gjennom kompetent eksisterende mekanisme før noen myndighetsbærende registreringshandling kan bygge på den.
+
+Publisering av beslutningsteksten alene er ikke operativ effektivering.
+
+**APPROVED SOURCE != EFFECTIVE EXECUTION AUTHORITY.**
+
+## 9. COMMANDER DISPOSITION
+
+Commander bekrefter:
+
+1. Development Authority Reconciliation 001 forblir substansielt godkjent.
+2. Initial Adoption Execution Authorization 001 skal bringes til gyldig prospektiv effekt gjennom korteste kompetente eksisterende rute.
+3. Én avgrenset Initial Adoption-registreringsoperasjon godkjennes på vilkårene ovenfor.
+4. IMs stående registreringskapasitet skal modnes gjennom eksisterende delegasjonsarkitektur.
+5. Ingen ny governance-prosess skal etableres når eksisterende mekanismer er tilstrekkelige.
+6. Ingen implementering, merge, deploy eller produksjonsoperasjon frigjøres av denne beslutningen alene.
+
+**COMMANDER APPROVAL — SUBJECT TO COMPETENT EFFECTIVITY.**
+
+**PRESERVE EXISTING AUTHORITY. ENABLE REUSABLE IM REGISTRATION.**
