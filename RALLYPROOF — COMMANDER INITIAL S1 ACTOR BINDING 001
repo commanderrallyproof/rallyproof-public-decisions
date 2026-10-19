@@ -1,0 +1,82 @@
+# RALLYPROOF — COMMANDER INITIAL S1 ACTOR BINDING 001
+
+**DECISION CLASS:** Initial organizational actor attribution / bounded effectivity completion  
+**STATUS:** DECISION CANDIDATE — NOT ISSUED
+
+## 1. Existing authority preserved
+
+Jeg bekrefter den allerede publiserte og betinget godkjente delegasjonen:
+
+**Delegation:** `S1-ORGANIZATIONAL-REGISTRATION-001`
+
+**Commander commit:** `ff12a192962996305ee3984eaedf927b3618bb37`
+
+**Commander decision blob:** `12fdfaf75a4198bf08fa045cb9ab5b5237df6c8f`
+
+Denne beslutningen endrer ikke det godkjente myndighetsomfanget, gyldighetsperioden eller begrensningene.
+
+## 2. Initial organizational actor binding
+
+Jeg utpeker følgende stabile organisatoriske identifikator for den eksisterende Rallyproof S1-agenten:
+
+`RALLYPROOF-S1-AGENT-001`
+
+**Existing function:** `S1 / Role Governance & Organizational Readiness`
+
+**Role package ID:** `COMMAND_TEAM_S1_ROLE_GOVERNANCE_ROLE_PACKAGE_V2_0`
+
+**Role package blob:** `dc5960b09c5df75774c562be46b1cf13f39a9337`
+
+Denne identifikatoren gjelder den eksisterende S1-agentfunksjonen. Den oppretter ingen ny agent, rolle eller organisasjonsmodell.
+
+## 3. Initial execution context
+
+Følgende eksisterende utførerkontekst er knyttet til kandidaten:
+
+**ChatGPT conversation:** `6ad6100d-45ac-83eb-b66c-111ed9db7118`
+
+**ChatGPT project:** `g-p-696f77424e348191928c69319c1e6080`
+
+Samtalen er første dokumenterte utførerkontekst og proveniens. Den er ikke den permanente organisatoriske agentidentiteten.
+
+Senere ChatGPT-, Codex- eller andre utførerkontekster kan bare knyttes til samme organisatoriske identitet gjennom gyldig, attribuerbar oppgave- og utførerbinding.
+
+## 4. Delegation relationship
+
+Etter kompetent kvalifisering skal:
+
+`RALLYPROOF-S1-AGENT-001`
+
+være den organisatoriske delegaten for:
+
+`S1-ORGANIZATIONAL-REGISTRATION-001`
+
+Bare den allerede godkjente, avgrensede organisatoriske registreringsmyndigheten omfattes.
+
+Ingen selvaktivering, subdelegasjon, generell GitHub-skrivemyndighet eller annen seksjons fagmyndighet følger.
+
+## 5. Prospective effectivity
+
+Identitetsbindingen skal kontrolleres uavhengig før myndighetsutøvelse.
+
+**ONE-TIME EFFECTIVITY REGISTRAR:** Human Commander, eller en konkret særskilt autorisert oppgavebundet registrator med dokumentert utøvelsesmyndighet.
+
+**REGISTRATION TARGET:** Eksakt S1-relevant GitHub issue/PR, identifisert og kvalifisert før publisering.
+
+**EFFECTIVE_FROM:** Første gyldig, separat dokumentert prospektive effektivitetsøyeblikk etter oppfylte vilkår.
+
+**EXPIRY:** 90 dager etter `EFFECTIVE_FROM`, i samsvar med den allerede publiserte delegasjonen.
+
+**REVIEW:** Senest 30 dager etter `EFFECTIVE_FROM`.
+
+Ingen tilbakevirkning eller effekt fra denne beslutningsteksten alene.
+
+## 6. Final disposition
+
+Dette er en avgrenset førstegangsidentitetsbinding og nødvendig avslutning av eksisterende betinget delegasjon.
+
+Ingen ny substansiell registreringsmyndighet opprettes.
+
+**INITIAL ACTOR BINDING APPROVED, SUBJECT TO INDEPENDENT QUALIFICATION AND PROSPECTIVE EFFECTIVITY.**
+
+**NO SELF-ACTIVATION. NO AUTHORITY CREATION BY REGISTRATION. NO GENERAL WRITER AUTHORITY.**
