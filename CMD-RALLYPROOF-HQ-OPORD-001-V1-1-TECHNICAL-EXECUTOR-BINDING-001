@@ -1,0 +1,189 @@
+# RALLYPROOF — COMMANDER EXECUTION AUTHORIZATION REQUEST 001
+
+## OPORD 001 v1.1 — SINGLE-PURPOSE TECHNICAL EXECUTOR BINDING
+
+**FROM:** XO — Chief of Staff  
+**TO:** Human Commander — Rallyproof  
+**DATE:** 20. oktober 2026  
+**PRIORITY:** CRITICAL  
+**DECISION CLASS:** Single-Purpose Technical Executor Assignment  
+**STATUS:** SUBMITTED FOR COMMANDER APPROVAL  
+**REPOSITORY:** `RaunTechnologies/rallyproof`
+
+**PROPOSED DECISION ID:**
+
+`CMD-RALLYPROOF-HQ-OPORD-001-V1-1-TECHNICAL-EXECUTOR-BINDING-001`
+
+---
+
+## 1. DECISION REQUEST
+
+XO ber Human Commander godkjenne én eksakt teknisk utførerbinding for den allerede adopterte OPORD 001 v1.1.
+
+Dette er ikke en ny adopsjon av dokumentet.
+
+Dette er ikke en utvidelse av S6s generelle myndighet.
+
+Dette er ikke en ny Build Hold-autorisasjon.
+
+Formålet er å fjerne den siste dokumenterte blokkeringen før normal teknisk publisering.
+
+## 2. EXISTING COMMANDER AUTHORITY
+
+**Adoption Decision:**
+
+`CMD-RALLYPROOF-HQ-OPORD-001-V1-1-ADOPTION-001`
+
+Commit:
+
+`d4824692e989770041cd45bcc01d7bb64c98b208`
+
+**Effectivity Execution Authorization:**
+
+`CMD-RALLYPROOF-HQ-OPORD-001-V1-1-EFFECTIVITY-AUTHORIZATION-001`
+
+Commit:
+
+`b9057367a048f5b76f09f757a6392b927fe5fff4`
+
+Begge beslutningene er allerede autentisert og kvalifisert.
+
+Den eksakte OPORD-kandidaten er verifisert.
+
+## 3. PROPOSED COMMANDER AUTHORIZATION
+
+Ved godkjenning autoriserer Human Commander følgende ene tekniske oppgavebinding:
+
+**TASK ID:**
+
+`XO-S6-HQ-OPORD-001-V1-1-PUBLICATION-001`
+
+**TECHNICAL EXECUTOR:**
+
+`GITHUB:kompanikollen-arch#255761231`
+
+**TECHNICAL RESPONSIBILITY:**
+
+S6 — Engineering & Technical Systems
+
+**REPOSITORY:**
+
+`RaunTechnologies/rallyproof`
+
+**EXACT TARGET FILE:**
+
+`01_HQ/OPORD.md`
+
+**DOCUMENT:**
+
+`HQ-OPORD-001 v1.1`
+
+**EXACT SIZE:**
+
+`20,564 bytes`
+
+**EXACT SHA-256:**
+
+`f89d22d01fa1246ae7d5a543d11ef856928f7ea79a6087377efb57f6b917f008`
+
+Ingen annen dokumentversjon eller endret SHA-256 omfattes.
+
+## 4. AUTHORIZED ACTIONS
+
+Innenfor denne ene operasjonen autoriseres den angitte tekniske utføreren til å:
+
+1. Opprette én dedikert arbeidsbranch.
+2. Erstatte `01_HQ/OPORD.md` med de eksakte godkjente v1.1-bytene.
+3. Verifisere byteidentitet og SHA-256.
+4. Opprette nødvendige avgrensede commits.
+5. Publisere arbeidsbranch til GitHub.
+6. Opprette draft-PR.
+7. Kjøre nødvendige tester og CI.
+8. Innhente separat uavhengig review.
+9. Forberede komplett beslutningsgrunnlag for beskyttet merge.
+
+Autorisasjonen gjelder bare denne konkrete dokumentpubliseringen.
+
+## 5. MANDATORY CONTROLS
+
+Før første repository-mutasjon skal S6 kontrollere:
+
+- Autentisert teknisk GitHub-identitet.
+- Gjeldende Commander-autorisasjoner.
+- Eksakt oppgavebinding.
+- Faktisk GitHub-skrivetilgang.
+- Beskyttelsesregler for målfilen.
+- Gjeldende repository-baseline.
+- Uendret dokument-SHA-256.
+- Ingen tilbakekalling eller motstridende kompetent beslutning.
+
+Alle gjeldende branch protection-, CI- og reviewkrav skal bevares.
+
+## 6. EXPRESS EXCLUSIONS
+
+Denne autorisasjonen gir ikke:
+
+- Generell GitHub Writer Authority.
+- Stående S6-delegasjon.
+- Ny rolleholderaktivering.
+- Endringsmyndighet for andre filer.
+- Rett til å endre godkjent OPORD-tekst.
+- Direkte skriving til beskyttet `main`.
+- Merge-myndighet.
+- Deploy- eller produksjonsmyndighet.
+- Rett til selvstendig uavhengig review.
+- Konstituerende effektivitetsregistrering.
+
+Separat kompetent mergeautorisasjon er fortsatt nødvendig.
+
+XO beholder kun den allerede Commander-autoriserte engangsregistratormyndigheten for OPORD 001 v1.1.
+
+## 7. VALIDITY
+
+Autorisasjonen er begrenset til én identifisert publiseringsoppgave.
+
+Den opphører ved fullført tillatt gjennomføring, kompetent tilbakekall eller materiell endring i oppgave, utfører, dokument eller scope.
+
+Ingen tilbakevirkende effekt.
+
+## 8. EXECUTION AFTER APPROVAL
+
+Etter autentisert Commander-godkjenning skal XO:
+
+1. Verifisere autorisasjonens publisering og identitet.
+2. Binde autorisasjonen til XO Execution Order 055.
+3. Pålegge S6 å kontrollere action-time-vilkårene.
+4. La S6 gjennomføre branch, commit, draft-PR og CI innenfor gitt myndighet.
+5. Innhente uavhengig PR-kvalifisering.
+6. Fremlegge eksakt mergegrunnlag for kompetent beslutning.
+7. Etter gyldig merge gjennomføre den allerede autoriserte prospektive effektivitetskjeden.
+
+Ingen ny substansiell OPORD-adopsjon skal innhentes.
+
+## 9. REQUESTED COMMANDER DECISION
+
+**APPROVE — SINGLE-PURPOSE TECHNICAL EXECUTOR BINDING**
+
+For:
+
+`XO-S6-HQ-OPORD-001-V1-1-PUBLICATION-001`
+
+Executor:
+
+`GITHUB:kompanikollen-arch#255761231`
+
+Target:
+
+`01_HQ/OPORD.md`
+
+Approved SHA-256:
+
+`f89d22d01fa1246ae7d5a543d11ef856928f7ea79a6087377efb57f6b917f008`
+
+**XO RECOMMENDATION: APPROVE.**
+
+---
+
+**XO — CHIEF OF STAFF**
+
+**AWAITING AUTHENTICATED HUMAN COMMANDER DECISION**
