@@ -1,0 +1,289 @@
+# CMD-RAUN-GLOBAL-BUILD-HOLD-RETIREMENT-001
+
+## COMMANDER ORDER — PROSPECTIVE GENERAL BUILD HOLD RETIREMENT
+
+**FROM:** Human Commander  
+**TO:** XO / S1 / S2 / S3 / S4 / S5 / S6 / IM / Bodyguard / Product  
+**DATE:** 19. oktober 2026  
+**DECISION CLASS:** General Development Policy / Bounded Prospective Supersession  
+**REPOSITORY:** `RaunTechnologies/rallyproof`  
+**COMMANDER DECISION STATUS:** APPROVED — ORDER ISSUED  
+**EFFECTIVITY STATUS:** PENDING REQUIRED QUALIFICATION AND REGISTRATION  
+**EFFECTIVE_FROM:** TO BE ESTABLISHED THROUGH VERIFIED PROSPECTIVE EFFECTIVITY  
+**PRIORITY:** CRITICAL  
+**MODE:** EXECUTE WITHIN EXISTING AUTHORITY
+
+---
+
+## 1. COMMANDER DECISION — ORDER
+
+Jeg, Human Commander for Rallyproof, **beslutter og beordrer herved prospektiv avvikling av Rallyproofs generelle krav om særskilt Build Hold-unntak for ordinært, allerede autorisert og avgrenset utviklingsarbeid i ikke-produksjonsmiljø.**
+
+Dette er en endelig Commander-beslutning om den definerte utviklingspolitikken, ikke et forslag til senere godkjenning.
+
+Beslutningen skal gjøre det mulig å gjennomføre normal utvikling innenfor eksisterende oppdrag, myndighet og tekniske kontroller uten gjentatt generell Build Hold-eskalering.
+
+Beslutningen oppretter ingen ny generell utviklingsmyndighet.
+
+**Den generelle Build Hold skal opphøre innenfor beslutningens definerte omfang fra det tidspunktet de fastsatte effektivitetsvilkårene er oppfylt.**
+
+Inntil dette tidspunktet gjelder eksisterende Build Hold fortsatt.
+
+---
+
+## 2. SCOPE — AUTHORIZED DEVELOPMENT
+
+Beslutningen gjelder kun ordinært utviklingsarbeid som allerede har:
+
+- Kompetent oppdrag eller gyldig oppgaveklassedelegasjon.
+- Nødvendig faglig og teknisk myndighet.
+- Gyldig faktisk utfører- og oppgavebinding der dette kreves.
+- Autorisert teknisk konto eller transport.
+- Definert og tillatt endringsomfang.
+- Gjeldende currentness og proveniens.
+- Obligatoriske tester og kvalifiseringer.
+
+**Fra gyldig effektivitetsøyeblikk skal det ikke kreves et ytterligere særskilt unntak fra den generelle Build Hold for arbeid som oppfyller disse vilkårene.**
+
+Denne regelen skal gjelde prospektivt og konsekvent på tvers av Rallyproofs relevante utviklingsfunksjoner.
+
+---
+
+## 3. PROSPECTIVE GENERAL SUPERSESSION
+
+Fra beslutningens gyldige effektivitetsøyeblikk erstatter jeg det generelle Build Hold-unntakskravet i følgende identifiserte autoritative representasjoner, men bare for utviklingsklassen definert i punkt 2:
+
+- `CMD-S6-AUTHORITY-001`
+- `S6-TECHNICAL-SYSTEMS-AUTHORITY-ENVELOPE-001`
+- Gjeldende generelle Build Hold-referanser i tilhørende rolle- og myndighetslivssykluser.
+- Gjeldende utviklingskampanjemalens generelle krav om særskilt Build Hold-unntak.
+
+Dette er en **prospektiv Commander-supersession** av det identifiserte generelle tilleggskravet.
+
+Tidligere kilder skal bevares som historisk autoritativ dokumentasjon.
+
+Ingen historisk beslutning skal omskrives som om denne ordren var effektiv før sitt faktiske effektivitetsøyeblikk.
+
+---
+
+## 4. ORIGINAL-SOURCE LIMITATION
+
+Den opprinnelige konstituerende Build Hold-beslutningen er ikke sikkert identifisert.
+
+Jeg beslutter likevel den uttrykkelig avgrensede prospektive endringen i punkt 1–3 på grunnlag av den identifiserte gjeldende myndighetskjeden.
+
+Denne ordren hevder ikke at enhver historisk kilde eller ethvert selvstendig beskyttelseskrav er kartlagt eller opphevet.
+
+Dersom en annen gyldig kilde stiller et særskilt, strengere krav for en konkret handling, skal dette fortsatt håndheves inntil kompetent myndighet uttrykkelig avklarer forholdet.
+
+Manglende identifikasjon av den opprinnelige historiske kilden skal ikke i seg selv brukes til å innføre en ny generell godkjenningsprosess for utviklingsarbeid som ellers er dekket av denne beslutningen.
+
+---
+
+## 5. PRESERVED AUTHORITY BOUNDARIES
+
+Jeg bestemmer uttrykkelig at følgende myndigheter, beskyttelser og kontrollmekanismer består uendret:
+
+- Human Commander Authority.
+- Rollemyndighet og holder-/aktørbinding.
+- S1 Organizational Registration Authority.
+- S2s faglige og beskyttede analytiske myndighet.
+- S3 Operational Authority.
+- S4 operativ custody.
+- S5 faglig myndighet.
+- S6 Technical Systems Authority.
+- IM Information Governance Authority.
+- Bodyguard uavhengig kontroll.
+- Product Authority.
+- Design Authority.
+- Beskyttede autoritative governance- og metodikkilder.
+- Gjeldende oppgavespesifikke delegasjoner.
+- GEC, GEAI og tilsvarende gjeldende gjennomføringskontroller.
+- CI, exact-head-kontroller og relevante reviews.
+- GitHub branch protection.
+- Kompetent merge-myndighet.
+- Produksjonsdeploy og customer release.
+- Database-, sikkerhets- og tilgangskritiske operasjoner.
+- Gjeldende tilbakekalls- og currentness-krav.
+
+Denne ordren fjerner kun det generelle ekstra Build Hold-unntakskravet innenfor sitt definerte omfang.
+
+---
+
+## 6. NO AUTOMATIC AUTHORIZATION
+
+Denne beslutningen gir ikke automatisk:
+
+- GitHub Writer Authority.
+- Ny fagmyndighet.
+- Ny AI-agent eller holderutnevnelse.
+- Rett til å starte enhver workflow.
+- Rett til å endre enhver kodefil.
+- Merge-myndighet.
+- Deploy-myndighet.
+- Produksjonstilgang.
+- Tilgang til hemmeligheter eller credentials.
+- Rett til å endre beskyttede data.
+- Rett til å overstyre sikkerhetskontroller.
+
+Det er kun kravet om et ekstra generelt Build Hold-unntak innenfor punkt 2 som fjernes.
+
+Eksisterende kompetent myndighet og autorisert teknisk utføring skal fortsatt legges til grunn.
+
+---
+
+## 7. EXISTING BOUNDED EXCEPTIONS
+
+Tidligere gyldige oppgavespesifikke Build Hold-unntak skal ikke slettes eller tilbakevirkende omtolkes.
+
+De forblir historiske myndighetskilder for de konkrete oppgavene de omfattet.
+
+Dersom en slik oppgave har særskilte selvstendige vilkår, gjelder disse fortsatt.
+
+Det skal ikke kreves nye generelle Build Hold-unntak for ordinært utviklingsarbeid som etter effektivering allerede er dekket av denne beslutningen.
+
+---
+
+## 8. EFFECTIVITY — MANDATORY EXECUTION
+
+**Jeg beordrer XO, S1, S6 og IM til å gjennomføre nødvendige effektivitetssteg innenfor sine respektive eksisterende myndigheter.**
+
+Denne Commander-beslutningen er godkjent og utstedt. Den materielle beslutningen skal ikke sendes tilbake til meg for en ny generell godkjenningsrunde.
+
+Den operative opphevelsen er likevel ikke effektiv ved utarbeidelse eller ved en uverifisert kunngjøring.
+
+Følgende vilkår skal oppfylles:
+
+1. **Commander authentication:** Denne beslutningen skal publiseres gjennom en kompetent, autentisert og attribuerbar Commander-kildekanal.
+2. **Authoritative source:** Beslutningens eksakte autoritative tekst og kildeidentitet skal bevares.
+3. **IM qualification:** IM skal kontrollere proveniens, kildeintegritet, currentness og den avgrensede supersession.
+4. **Independent qualification:** Nødvendig uavhengig kvalifisering av det eksakte beslutningsobjektet skal gjennomføres.
+5. **Competent effectivity registration:** Prospektiv effektivitetsregistrering skal gjennomføres gjennom eksisterende autorisert mekanisme.
+6. **Independent readback:** Uavhengig etterkontroll skal bekrefte faktisk publisering og effektivitetsgrunnlag.
+
+`EFFECTIVE_FROM` skal fastsettes ved det første gyldige prospektive effektivitetsøyeblikket etter oppfylte vilkår.
+
+**Ingen tilbakevirkende effekt er tillatt.**
+
+Ingen funksjon skal erklære Build Hold opphevet før nødvendig effektivitetsbevis foreligger.
+
+---
+
+## 9. EXECUTION RESPONSIBILITIES
+
+### 9.1 XO — Chief of Staff
+
+XO skal koordinere gjennomføringen og sikre at beslutningen føres frem til verifisert effekt.
+
+XO skal ikke etablere en ny generell godkjenningsprosess eller kreve ny Commander-beslutning for allerede godkjent substans.
+
+### 9.2 S1 — Organizational Readiness
+
+S1 skal kontrollere nødvendige organisatoriske myndighetsforutsetninger og den avgrensede supersession.
+
+S1 skal ikke opprette nye rolle- eller agentmyndigheter gjennom denne beslutningen.
+
+### 9.3 IM — Information Governance
+
+IM skal kontrollere den publiserte Commander-kilden, proveniens, kildeintegritet, currentness og effektivitetsreferanser.
+
+IM skal ikke selv skape Commander-myndighet gjennom informasjonsregistrering.
+
+### 9.4 S6 — Engineering & Technical Systems
+
+S6 skal gjennomføre nødvendige tekniske tilpasninger innenfor gyldig myndighet og sørge for operativ validering etter effektivering.
+
+S6 skal ikke endre beskyttede autoritative kilder eller gjennomføre uautoriserte GitHub-skrivehandlinger.
+
+### 9.5 Independent Qualified Reviewer
+
+Kompetent uavhengig reviewer skal kontrollere det eksakte beslutningsobjektet og nødvendig effektivitetsgrunnlag.
+
+Tidligere gyldige S1- og S6-funn skal gjenbrukes der de fortsatt er aktuelle.
+
+Ingen unødvendig gjentakelse av allerede fullført kartlegging skal kreves.
+
+---
+
+## 10. POST-EFFECTIVITY IMPLEMENTATION
+
+Etter gyldig effektivering skal XO og S6 sørge for nødvendige, avgrensede navigasjonsmessige og tekniske tilpasninger.
+
+Eksisterende CI, branch protection, merge- og deploykontroller skal bevares.
+
+**S6 beordres til å demonstrere én faktisk ordinær utviklingsoppgave innenfor eksisterende myndighet.**
+
+Gjennomføringen skal dokumentere:
+
+- Oppgaveautorisasjon.
+- Teknisk utførerbinding.
+- Branch og commit.
+- PR.
+- Tester og relevante reviews.
+- Faktisk resultat.
+- Bevarte beskyttelsesgrenser.
+
+Ingen ny generell Commander-godkjenning kreves for ordinære delsteg som allerede er dekket av effektiv myndighet.
+
+S6 skal selv lede og gjennomføre utviklingsoppdraget ved bruk av en autorisert teknisk utfører.
+
+Valg av Codex, Claude eller annen kompetent teknisk utfører er ikke et selvstendig Commander-beslutningspunkt.
+
+---
+
+## 11. COMMANDER EXECUTION DIRECTION
+
+Jeg fastsetter følgende bindende gjennomføringsretning:
+
+**GENERAL BUILD HOLD RETIREMENT: APPROVED.**
+
+**PROSPECTIVE EFFECTIVITY: REQUIRED BEFORE OPERATIONAL RELEASE.**
+
+**REMOVE THE GENERAL EXTRA BUILD HOLD EXCEPTION REQUIREMENT.**
+
+**PRESERVE EXISTING ROLE AND TECHNICAL AUTHORITY.**
+
+**PRESERVE ALL SPECIFIC PROTECTED-OPERATION REQUIREMENTS.**
+
+**NO NEW GENERAL DEVELOPMENT AUTHORITY.**
+
+**NO GENERAL GITHUB WRITER AUTHORITY.**
+
+**NO AUTOMATIC MERGE OR DEPLOY.**
+
+**NO RETROACTIVE SUPERSESSION.**
+
+**NO NEW GOVERNANCE ARCHITECTURE.**
+
+**NO DUPLICATE COMMANDER APPROVAL PROCESS.**
+
+**RESTORE NORMAL AUTONOMOUS DEVELOPMENT WITHIN EXISTING AUTHORITY.**
+
+---
+
+## 12. FINAL COMMANDER DISPOSITION
+
+**DECISION: APPROVED AND ORDERED**
+
+**SOURCE PUBLICATION: TO BE VERIFIED**
+
+**IM QUALIFICATION: REQUIRED**
+
+**INDEPENDENT QUALIFICATION: REQUIRED**
+
+**PROSPECTIVE EFFECTIVITY REGISTRATION: REQUIRED**
+
+**INDEPENDENT READBACK: REQUIRED**
+
+**GENERAL BUILD HOLD: ACTIVE UNTIL VERIFIED EFFECTIVITY**
+
+**TARGET END STATE: GENERAL BUILD HOLD RETIRED WITHIN DEFINED SCOPE**
+
+Denne ordren er min kompetente beslutning om prospektiv avvikling av det generelle ekstra Build Hold-kravet.
+
+Den skal gjennomføres uten unødvendige nye godkjenningsrunder, men med bevaring av eksisterende myndighets-, sikkerhets- og effektivitetskontroller.
+
+**HUMAN COMMANDER**  
+**RALLYPROOF**
+
+**CMD-RAUN-GLOBAL-BUILD-HOLD-RETIREMENT-001**
