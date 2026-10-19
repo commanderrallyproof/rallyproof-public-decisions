@@ -1,0 +1,179 @@
+# CMD-RAUN-BUILD-HOLD-RETIREMENT-EFFECTIVITY-AUTHORIZATION-001
+
+## COMMANDER ORDER — ONE-TIME EFFECTIVITY REGISTRAR AND TECHNICAL PUBLICATION AUTHORIZATION
+
+**FROM:** Human Commander  
+**TO:** XO / S6 / S1 / IM / Independent Qualified Reviewer  
+**DATE:** 19. oktober 2026  
+**DECISION CLASS:** Bounded One-Time Effectivity Registration Authorization  
+**STATUS:** APPROVED — COMMANDER ORDER ISSUED  
+**MODE:** EXECUTE WITHIN EXPRESSLY DEFINED AUTHORITY  
+**REPOSITORY:** `RaunTechnologies/rallyproof`
+
+**UNDERLYING APPROVED DECISION:** `CMD-RAUN-GLOBAL-BUILD-HOLD-RETIREMENT-001`
+
+**SOURCE COMMIT:** `8107e776ef6c06b9453fea5efb4454bde91e7b4d`
+
+**SOURCE BLOB:** `d5c82f15c83ae2713d9886efc05d877ec10e5848`
+
+## 1. COMMANDER DECISION
+
+Jeg, Human Commander for Rallyproof, beslutter og autoriserer herved én avgrenset prospektiv effektivitetsregistrering av den allerede godkjente beslutningen:
+
+`CMD-RAUN-GLOBAL-BUILD-HOLD-RETIREMENT-001`
+
+Denne ordren gir ikke en ny materiell godkjenning av Build Hold-avviklingen.
+
+Den etablerer kun nødvendig, oppgavespesifikk registrerings- og teknisk publiseringsmyndighet for å gjennomføre effektivitetsvilkårene i den opprinnelige beslutningens §8.
+
+## 2. COMPETENT REGISTRAR
+
+Jeg utpeker XO — Chief of Staff som kompetent, oppgavespesifikk effektivitetsregistrator for akkurat denne beslutningen.
+
+XO får myndighet til å koordinere, kontrollere og autorisere én prospektiv effektivitetsregistrering etter at nødvendige forutsetninger er verifisert.
+
+Denne utpekingen gir ingen generell registratormyndighet for andre Commander-beslutninger.
+
+XO skal ikke selv erstatte påkrevd uavhengig kvalifisering eller readback.
+
+## 3. TECHNICAL EXECUTOR
+
+Jeg autoriserer følgende tekniske GitHub-identitet for én avgrenset effektivitetsoperasjon:
+
+`GITHUB:kompanikollen-arch#255761231`
+
+Denne autorisasjonen gjelder bare registreringsoppgaven definert i denne ordren.
+
+Den oppretter ingen generell GitHub Writer Authority.
+
+Teknisk utfører skal følge gjeldende branch protection, review, CI og andre beskyttelseskrav.
+
+## 4. EXACT EFFECTIVITY TARGET
+
+**TARGET REPOSITORY:**
+
+`RaunTechnologies/rallyproof`
+
+**TARGET OBJECT:**
+
+`governance/effectivity/CMD_RAUN_GLOBAL_BUILD_HOLD_RETIREMENT_001_EFFECTIVITY_001.md`
+
+**SOURCE DECISION:**
+
+`CMD-RAUN-GLOBAL-BUILD-HOLD-RETIREMENT-001`
+
+**SOURCE COMMIT:**
+
+`8107e776ef6c06b9453fea5efb4454bde91e7b4d`
+
+**SOURCE BLOB:**
+
+`d5c82f15c83ae2713d9886efc05d877ec10e5848`
+
+Dette er den eksakte autoriserte registreringskandidaten.
+
+Dersom eksisterende beskyttet repository-prosess krever branch, PR, review og merge før filen kan være effektiv, skal disse kontrollene følges.
+
+Ingen direkte omgåelse av branch protection er tillatt.
+
+## 5. AUTHORIZED OPERATION
+
+XO autoriseres til å lede følgende avgrensede operasjon:
+
+1. Verifisere autentisert Commander-beslutning og IM PASS.
+2. Verifisere separat uavhengig Bodyguard PASS.
+3. Kontrollere at denne oppgavespesifikke registreringsautorisasjonen er publisert og autentisert.
+4. Binde den angitte tekniske utføreren til registreringsoppgaven.
+5. La S6 klargjøre ett eksakt effektivitetsobjekt.
+6. Gjennomføre nødvendige GitHub-kontroller.
+7. Publisere én kompetent prospektiv effektivitetsregistrering.
+8. Innhente separat uavhengig readback.
+9. La IM oppdatere relevant currentness.
+10. Frigi ordinær S6-utvikling innenfor den opprinnelige beslutningens §2 etter verifisert effekt.
+
+## 6. PROSPECTIVE EFFECTIVITY
+
+Effektivitetsregistreringen skal bare gjennomføres etter at alle forutsetninger er oppfylt.
+
+`EFFECTIVE_FROM` skal bygge på faktisk, etterprøvbart tidspunkt fra den autoriserte registreringsmekanismen.
+
+Ingen tilbakevirkende effekt er tillatt.
+
+Denne autorisasjonen gjør ikke den generelle Build Hold-avviklingen automatisk effektiv ved publisering.
+
+## 7. PRESERVED CONTROLS
+
+Følgende består uendret:
+
+- Commander Authority.
+- Eksisterende rolle- og fagmyndighet.
+- S1s organisatoriske myndighet.
+- IMs informasjonsmyndighet.
+- S6s tekniske myndighet.
+- Uavhengig Bodyguard-kontroll.
+- GitHub branch protection.
+- CI, exact-head og review.
+- Kompetent merge-myndighet.
+- Deploy- og produksjonskontroller.
+- Sikkerhets- og tilgangskritiske beskyttelser.
+- Gjeldende currentness og tilbakekallsregler.
+
+Denne ordren gir ikke generell myndighet til å endre beskyttede governance-kilder.
+
+## 8. INDEPENDENT READBACK
+
+Etter registreringen skal en separat kvalifisert reviewer kontrollere:
+
+- Eksakt publisert registreringsobjekt.
+- Kompetent registrator.
+- Teknisk utfører.
+- Autorisert GitHub-operasjon.
+- Provider-attribusjon.
+- Faktisk prospektivt tidspunkt.
+- Korrekt Commander-kilde.
+- IM- og Bodyguard-kvalifisering.
+- Bevarte myndighetsgrenser.
+- Ingen tilbakevirkende effekt.
+
+Ingen generell Build Hold-avvikling skal erklæres operativt effektiv før nødvendig etterkontroll er bestått.
+
+## 9. POST-EFFECTIVITY EXECUTION
+
+Etter verifisert effekt skal S6 gjennomføre én faktisk ordinær utviklingsoppgave innenfor eksisterende myndighet.
+
+Oppgaven skal dokumentere branch, commit, PR, tester, review og resultat.
+
+Ingen ny generell Build Hold-unntakssøknad kreves for arbeid som omfattes av den effektive Commander-beslutningens §2.
+
+## 10. FINAL COMMANDER DISPOSITION
+
+**UNDERLYING BUILD HOLD RETIREMENT: ALREADY APPROVED.**
+
+**ONE-TIME EFFECTIVITY REGISTRAR: XO — AUTHORIZED.**
+
+**TECHNICAL EXECUTOR: kompanikollen-arch#255761231 — AUTHORIZED FOR EXACT OPERATION.**
+
+**EFFECTIVITY TARGET: DEFINED.**
+
+**INDEPENDENT QUALIFICATION: REQUIRED AND REPORTED PASS.**
+
+**PROSPECTIVE REGISTRATION: ORDERED.**
+
+**INDEPENDENT READBACK: MANDATORY.**
+
+**GENERAL BUILD HOLD: ACTIVE UNTIL VERIFIED EFFECTIVITY.**
+
+**NO GENERAL WRITER AUTHORITY.**
+
+**NO AUTOMATIC MERGE OR DEPLOY.**
+
+**NO RETROACTIVE EFFECT.**
+
+**NO NEW GOVERNANCE ARCHITECTURE.**
+
+Jeg beordrer at denne avgrensede registreringsoperasjonen gjennomføres frem til verifisert effekt, innenfor de uttrykkelige myndighetsgrensene ovenfor.
+
+**HUMAN COMMANDER**  
+**RALLYPROOF**
+
+**CMD-RAUN-BUILD-HOLD-RETIREMENT-EFFECTIVITY-AUTHORIZATION-001**
