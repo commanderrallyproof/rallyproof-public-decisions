@@ -1,17 +1,18 @@
-# RALLYPROOF — COMMANDER DECISION REQUEST 001
+# RALLYPROOF — COMMANDER DECISION 001
 
 ## FOUNDATION ALIGNMENT 001
 ### PACKAGE A1 — BOUNDED REPOSITORY EXECUTION AUTHORIZATION
 
-**FROM:** XO — Chief of Staff  
-**TO:** Human Commander  
+**ISSUED BY:** Human Commander  
+**PREPARED BY:** XO — Chief of Staff  
 **TECHNICAL EXECUTOR:** S6 — Engineering & Technical Systems  
 **PROFESSIONAL OWNERS:** IM / S1 / Product  
 **DATE:** 20. oktober 2026  
 **REPOSITORY:** `RaunTechnologies/rallyproof`  
 **TASK ID:** `RALLYPROOF-FOUNDATION-ALIGNMENT-001-PACKAGE-A1`  
 **EXECUTION MODEL:** Lean Path v1.2  
-**PRIORITY:** CRITICAL — RESOLVE EXACT EXECUTION BLOCKER
+**PRIORITY:** CRITICAL — RESOLVE EXACT EXECUTION BLOCKER  
+**DECISION STATUS:** APPROVED — EXACT BOUNDED PACKAGE A1 EXECUTION
 
 ---
 
@@ -31,21 +32,37 @@ Gjennomgangen har identifisert seks nødvendige, ikke-materielle dokumentasjonsk
 
 Eksisterende Standing Development Grants A/B og AI Executor Binding Amendment er identifisert og vurdert.
 
-S6 har ikke funnet en effektiv, oppgavespesifikk repository-mutasjonsautorisasjon som dekker denne oppgaven.
+S6 har ikke funnet en tidligere effektiv, oppgavespesifikk repository-mutasjonsautorisasjon som dekker denne oppgaven.
 
-Ingen repository-mutasjon er gjennomført.
+Human Commander etablerer derfor gjennom denne beslutningen en eksakt avgrenset gjennomføringsautorisasjon, underlagt vilkårene i dette dokumentet og gjeldende effektivitets- og repository-kontroller.
+
+Ingen repository-mutasjon er dokumentert gjennomført som del av den forutgående myndighetskontrollen.
 
 ---
 
-## 2. REQUESTED COMMANDER DECISION
+## 2. COMMANDER DECISION
 
-Human Commander bes godkjenne følgende avgrensede gjennomføringsautorisasjon:
+**DECISION: APPROVED**
 
-**FOUNDATION ALIGNMENT 001 — PACKAGE A1**
+Human Commander godkjenner følgende avgrensede tekniske gjennomføringsoppdrag:
+
+**RALLYPROOF-FOUNDATION-ALIGNMENT-001-PACKAGE-A1**
 
 Formålet er å korrigere eksisterende dokumentnavigasjon slik at AI-agenter identifiserer gjeldende effektiv myndighet og ikke forveksler historiske eller rådgivende dokumenter med bindende styringskilder.
 
+Den materielle Commander-godkjenningen gjelder utelukkende:
+
+- Den eksakte oppgaven identifisert ovenfor.
+- Den navngitte tekniske GitHub-utføreren.
+- De seks filene angitt i punkt 4.
+- De avgrensede operasjonene angitt i punkt 5.
+- De gjeldende myndighets- og sikkerhetsbegrensningene.
+
 Dette er ikke en ny Foundation-adopsjon.
+
+Beslutningen etablerer ikke generell repository Writer Authority, generell agentmyndighet eller protected merge authority.
+
+Gjennomføringen kan først starte når de gjeldende effektivitets- og utførelsesvilkårene i punkt 7 er dokumentert oppfylt.
 
 ---
 
@@ -59,15 +76,19 @@ S6 — Engineering & Technical Systems
 
 `GITHUB:kompanikollen-arch#255761231`
 
-Autorisasjonen skal være bundet til denne utføreridentiteten innenfor gjeldende effektive task/executor- og repository-kontroller.
+Autorisasjonen er eksakt avgrenset til denne oppgaven og denne utføreridentiteten.
+
+Den skal anvendes i samsvar med gjeldende effektive task/executor-binding, autentiseringskrav og repository-kontroller.
 
 Den etablerer ikke generell eller permanent teknisk myndighet.
+
+En annen teknisk utfører kan ikke overta denne autorisasjonen uten gyldig kompetent grunnlag.
 
 ---
 
 ## 4. EXACT AUTHORIZED FILE SCOPE
 
-Autorisasjonen gjelder kun:
+Autorisasjonen gjelder kun følgende seks filer:
 
 1. `ARCHITECTURE.md`
 2. `docs/operations/RALLYPROOF_AGENT_RUNBOOK.md`
@@ -76,9 +97,15 @@ Autorisasjonen gjelder kun:
 5. `AGENTS.md`
 6. `01_HQ/STANDARDS/SOURCE_OF_TRUTH_READ_LIST_STANDARD.md`
 
-Ingen andre filer omfattes.
+Ingen andre filer omfattes av denne beslutningen.
 
 **`01_HQ/OPORD.md` er eksplisitt ekskludert.**
+
+Endringene skal begrenses til ikke-materielle informasjons-, kilde-, currentness- og myndighetsnavigasjonskorrigeringer identifisert i XO Execution Orders 080–081 og tilhørende profesjonelle kvalifiseringer.
+
+Eksisterende dokumenthistorikk, styrende myndighet, arkitektur og proveniens skal bevares.
+
+Dersom en nødvendig retting innebærer en materiell endring i produktarkitektur eller governance, faller denne delen utenfor autorisasjonen og må behandles av kompetent fagmyndighet.
 
 ---
 
@@ -87,16 +114,20 @@ Ingen andre filer omfattes.
 Etter gyldig autentisering, effektuering og action-time myndighetskontroll kan den autoriserte utføreren:
 
 1. Opprette én dedikert utviklingsbranch fra verifisert gjeldende `main`.
-2. Gjennomføre de seks avgrensede informasjons- og navigasjonskorrigeringene.
+2. Gjennomføre avgrensede dokumentasjons- og navigasjonskorrigeringer i de seks uttrykkelig tillatte filene.
 3. Bevare historiske dokumentstatuser og eksisterende governance-proveniens.
 4. Committe de autoriserte endringene.
 5. Opprette én målrettet pull request mot `main`.
-6. Kjøre relevante tester og CI.
-7. Innhente obligatorisk uavhengig kvalifisering.
-8. Gjennomføre read-only kontroller.
-9. Fremlegge endringen for kompetent mergeautorisasjon.
+6. Kjøre eksisterende relevante tester og CI.
+7. Innhente obligatorisk uavhengig kvalifisering der gjeldende regler krever dette.
+8. Gjennomføre read-only kontroller og teknisk verifikasjon.
+9. Fremlegge kvalifisert PR for separat kompetent mergeautorisasjon.
 
-Denne autorisasjonen gir ikke selvstendig rett til protected merge.
+**Protected merge er ikke autorisert gjennom denne beslutningen.**
+
+Utføreren skal arbeide videre til lengste gyldige gjennomføringstilstand innenfor effektiv myndighet.
+
+Fravær av mergeautorisasjon skal ikke i seg selv blokkere tidligere, selvstendig autoriserte branch-, commit-, test- og PR-operasjoner.
 
 ---
 
@@ -118,80 +149,103 @@ Beslutningen gir ikke:
 - Deploy- eller produksjonsmyndighet.
 - Database- eller runtime-mutasjonsmyndighet.
 - Unntak fra gjeldende branch protection, CI eller obligatorisk review.
+- Autorisasjon til å endre filer utenfor punkt 4.
+- Autorisasjon til å etablere nye governance-mekanismer eller nye effektivitetsregler.
+
+Alle eksisterende kompetente myndighetsgrenser videreføres.
 
 ---
 
 ## 7. EFFECTIVITY AND EXECUTION PRECONDITIONS
 
-Denne beslutningsforespørselen er ikke i seg selv en effektiv autorisasjon.
+Denne Commander-beslutningen dokumenterer den materielle godkjenningen av det eksakte Package A1-omfanget.
 
-Før første mutasjon skal følgende være dokumentert:
+**Beslutningens publisering er ikke alene tilstrekkelig til å dokumentere at alle vilkår for repository-mutasjon er oppfylt.**
+
+Før første mutasjon skal følgende være verifisert:
 
 1. Kompetent og autentisert Commander-beslutning.
-2. Gyldig effektivitetsgrunnlag for den eksakte autorisasjonen.
-3. Eksakt task/executor-binding.
-4. Gjeldende tillatt fil- og operasjonsscope.
-5. Gjeldende kvalifisert Build Hold-status.
-6. Overholdelse av eventuelle protected-path-krav.
-7. Fravær av relevant tilbakekalling eller materiell myndighetskonflikt.
+2. Gyldig effektivitetsgrunnlag etter gjeldende Rallyproof-regler.
+3. Eksakt oppgavebinding til `RALLYPROOF-FOUNDATION-ALIGNMENT-001-PACKAGE-A1`.
+4. Eksakt utførerbinding til `GITHUB:kompanikollen-arch#255761231`.
+5. Tillatt filscope og operasjonsscope som angitt i punkt 4 og 5.
+6. Gjeldende kvalifisert Build Hold-status for den aktuelle handlingen.
+7. Overholdelse av eventuelle protected-path- og repository-regler.
+8. Fravær av relevant tilbakekalling, senere supersession eller materiell myndighetskonflikt.
+9. Fersk verifikasjon av faktisk repository-tilstand før skrivehandling.
 
 Eksisterende effektivitetsmekanisme skal gjenbrukes.
 
+Den kompetente effektivitetsregistreringen og eventuelt påkrevd uavhengig etterkontroll skal dokumenteres i henhold til allerede effektive regler.
+
 Ingen ny generell governance-prosess skal opprettes.
+
+**EFFECTIVITY STATUS: COMMANDER APPROVED — EXECUTION SUBJECT TO VERIFIED EFFECTIVITY AND ACTION-TIME PRECONDITIONS.**
 
 ---
 
 ## 8. EXECUTION DIRECTION
 
-Når denne avgrensede autorisasjonen er verifisert effektiv, skal S6 fortsette direkte etter XO Execution Order 080.
+Når denne avgrensede autorisasjonen er verifisert effektiv og vilkårene i punkt 7 er oppfylt, skal S6 fortsette direkte etter XO Execution Order 080.
 
 Ingen ny Foundation-undersøkelse er nødvendig.
 
 Ingen ny generell rolle- eller myndighetsreview er nødvendig.
 
-S6 skal gjennomføre alle autoriserte handlinger frem til lengste gyldige sluttilstand.
+S6 skal:
 
-Ved manglende mergeautorisasjon skal S6 levere en ferdig kvalifisert PR og identifisere den eksakte gjenstående beslutningen.
+1. Hente fersk `main`.
+2. Kontrollere eksakt tillatt filscope.
+3. Opprette dedikert branch.
+4. Gjennomføre minste nødvendige dokumentrettinger.
+5. Bevare historiske opplysninger.
+6. Kontrollere kildehenvisninger og effektivitetsnavigasjon.
+7. Kontrollere Role Package v2-currentness gjennom gjeldende lifecycle-kilder.
+8. Kjøre relevante tester og CI.
+9. Opprette én målrettet PR.
+10. Gjennomføre obligatorisk review der dette kreves.
+11. Fremlegge PR for kompetent mergeautorisasjon.
+12. Foreta faktisk postmerge-readback dersom merge senere gjennomføres med separat gyldig myndighet.
 
----
+En lokal, avgrenset blokkering skal ikke stanse andre handlinger som er selvstendig autorisert.
 
-## 9. COMMANDER DISPOSITION REQUESTED
+Ved manglende kompetent mergeautorisasjon skal S6 levere en ferdig kvalifisert PR med eksakt HEAD og identifisere den gjenstående myndighetsbeslutningen.
 
-**APPROVE:**
-
-`RALLYPROOF-FOUNDATION-ALIGNMENT-001-PACKAGE-A1`
-
-**AUTHORIZED TECHNICAL EXECUTOR:**
-
-`GITHUB:kompanikollen-arch#255761231`
-
-**AUTHORIZED SCOPE:**
-
-Seks eksakte dokumenter angitt i punkt 4.
-
-**AUTHORIZED ACTIONS:**
-
-Branch / bounded documentation correction / commit / PR / tests / CI / required review / read-only verification.
-
-**PROTECTED MERGE:**
-
-NOT GRANTED.
-
-**GENERAL WRITER AUTHORITY:**
-
-NOT GRANTED.
-
-**DEPLOYMENT:**
-
-NOT GRANTED.
-
-**EFFECTIVITY:**
-
-SUBJECT TO COMPETENT AUTHENTICATION AND APPLICABLE EFFECTIVITY REQUIREMENTS.
+Ingen uautorisert merge, deploy eller produksjonsendring skal gjennomføres.
 
 ---
 
-**XO — CHIEF OF STAFF**
+## 9. FINAL COMMANDER DISPOSITION
+
+**DECISION:** APPROVED
+
+**TASK:** `RALLYPROOF-FOUNDATION-ALIGNMENT-001-PACKAGE-A1`
+
+**AUTHORIZED TECHNICAL EXECUTOR:** `GITHUB:kompanikollen-arch#255761231`
+
+**AUTHORIZED FILE SCOPE:** De seks eksakte repository-filene angitt i punkt 4.
+
+**AUTHORIZED OPERATIONS:** Dedikert branch, avgrensede dokumentasjonskorrigeringer, commit, PR, relevante tester, CI, obligatorisk review og read-only verifikasjon.
+
+**EXCLUDED FILE:** `01_HQ/OPORD.md`
+
+**PROTECTED MERGE:** NOT GRANTED.
+
+**GENERAL WRITER AUTHORITY:** NOT GRANTED.
+
+**DEPLOYMENT / PRODUCTION:** NOT GRANTED.
+
+**NEW GENERAL GOVERNANCE:** NOT AUTHORIZED.
+
+**EFFECTIVITY:** SUBJECT TO APPLICABLE COMPETENT EFFECTIVITY REGISTRATION, QUALIFICATION AND CURRENTNESS REQUIREMENTS.
+
+**COMMANDER DISPOSITION:** APPROVED FOR THE EXACT BOUNDED SCOPE, SUBJECT TO THE PRECONDITIONS IN SECTION 7.
+
+**ISSUING AUTHORITY:** Human Commander.
+
+---
+
+**HUMAN COMMANDER — RALLYPROOF**
 
 **EXACT AUTHORITY. EXACT EXECUTOR. EXACT FILES.**
 
