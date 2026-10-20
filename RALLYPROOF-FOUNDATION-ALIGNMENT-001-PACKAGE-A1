@@ -1,0 +1,198 @@
+# RALLYPROOF — COMMANDER DECISION REQUEST 001
+
+## FOUNDATION ALIGNMENT 001
+### PACKAGE A1 — BOUNDED REPOSITORY EXECUTION AUTHORIZATION
+
+**FROM:** XO — Chief of Staff  
+**TO:** Human Commander  
+**TECHNICAL EXECUTOR:** S6 — Engineering & Technical Systems  
+**PROFESSIONAL OWNERS:** IM / S1 / Product  
+**DATE:** 20. oktober 2026  
+**REPOSITORY:** `RaunTechnologies/rallyproof`  
+**TASK ID:** `RALLYPROOF-FOUNDATION-ALIGNMENT-001-PACKAGE-A1`  
+**EXECUTION MODEL:** Lean Path v1.2  
+**PRIORITY:** CRITICAL — RESOLVE EXACT EXECUTION BLOCKER
+
+---
+
+## 1. DECISION BASIS
+
+Foundation Alignment 001 er faglig kvalifisert gjennom:
+
+1. Bodyguard Foundation Authority & Currentness Qualification Report 001.
+2. IM Foundation Authority Return 001.
+3. S1/S6 Foundation Navigation Return 001.
+4. S3 Operational Currentness Return 001.
+5. S6 Foundation Navigation Return 001.
+6. S6 Foundation Alignment Package A Execution Return 001.
+7. Foundation Package A1 Authority & Execution Return 001.
+
+Gjennomgangen har identifisert seks nødvendige, ikke-materielle dokumentasjonskorrigeringer.
+
+Eksisterende Standing Development Grants A/B og AI Executor Binding Amendment er identifisert og vurdert.
+
+S6 har ikke funnet en effektiv, oppgavespesifikk repository-mutasjonsautorisasjon som dekker denne oppgaven.
+
+Ingen repository-mutasjon er gjennomført.
+
+---
+
+## 2. REQUESTED COMMANDER DECISION
+
+Human Commander bes godkjenne følgende avgrensede gjennomføringsautorisasjon:
+
+**FOUNDATION ALIGNMENT 001 — PACKAGE A1**
+
+Formålet er å korrigere eksisterende dokumentnavigasjon slik at AI-agenter identifiserer gjeldende effektiv myndighet og ikke forveksler historiske eller rådgivende dokumenter med bindende styringskilder.
+
+Dette er ikke en ny Foundation-adopsjon.
+
+---
+
+## 3. AUTHORIZED EXECUTOR
+
+**Technical function:**
+
+S6 — Engineering & Technical Systems
+
+**Authenticated GitHub executor:**
+
+`GITHUB:kompanikollen-arch#255761231`
+
+Autorisasjonen skal være bundet til denne utføreridentiteten innenfor gjeldende effektive task/executor- og repository-kontroller.
+
+Den etablerer ikke generell eller permanent teknisk myndighet.
+
+---
+
+## 4. EXACT AUTHORIZED FILE SCOPE
+
+Autorisasjonen gjelder kun:
+
+1. `ARCHITECTURE.md`
+2. `docs/operations/RALLYPROOF_AGENT_RUNBOOK.md`
+3. `START_HERE_RALLYPROOF.md`
+4. `README.md`
+5. `AGENTS.md`
+6. `01_HQ/STANDARDS/SOURCE_OF_TRUTH_READ_LIST_STANDARD.md`
+
+Ingen andre filer omfattes.
+
+**`01_HQ/OPORD.md` er eksplisitt ekskludert.**
+
+---
+
+## 5. PERMITTED OPERATIONS
+
+Etter gyldig autentisering, effektuering og action-time myndighetskontroll kan den autoriserte utføreren:
+
+1. Opprette én dedikert utviklingsbranch fra verifisert gjeldende `main`.
+2. Gjennomføre de seks avgrensede informasjons- og navigasjonskorrigeringene.
+3. Bevare historiske dokumentstatuser og eksisterende governance-proveniens.
+4. Committe de autoriserte endringene.
+5. Opprette én målrettet pull request mot `main`.
+6. Kjøre relevante tester og CI.
+7. Innhente obligatorisk uavhengig kvalifisering.
+8. Gjennomføre read-only kontroller.
+9. Fremlegge endringen for kompetent mergeautorisasjon.
+
+Denne autorisasjonen gir ikke selvstendig rett til protected merge.
+
+---
+
+## 6. NON-GRANTS
+
+Beslutningen gir ikke:
+
+- Generell repository Writer Authority.
+- Generell AI- eller agentmyndighet.
+- Ny S6-fagmyndighet.
+- Ny rolleinnehaveraktivering.
+- Generell Foundation-adopsjon.
+- Endring av Constitution.
+- Endring av Rally OS v2.
+- Endring av HQ-OPORD-001 v1.1.
+- Endring av myndighetskonvolutter.
+- Ny Build Hold-myndighet.
+- Protected merge authority.
+- Deploy- eller produksjonsmyndighet.
+- Database- eller runtime-mutasjonsmyndighet.
+- Unntak fra gjeldende branch protection, CI eller obligatorisk review.
+
+---
+
+## 7. EFFECTIVITY AND EXECUTION PRECONDITIONS
+
+Denne beslutningsforespørselen er ikke i seg selv en effektiv autorisasjon.
+
+Før første mutasjon skal følgende være dokumentert:
+
+1. Kompetent og autentisert Commander-beslutning.
+2. Gyldig effektivitetsgrunnlag for den eksakte autorisasjonen.
+3. Eksakt task/executor-binding.
+4. Gjeldende tillatt fil- og operasjonsscope.
+5. Gjeldende kvalifisert Build Hold-status.
+6. Overholdelse av eventuelle protected-path-krav.
+7. Fravær av relevant tilbakekalling eller materiell myndighetskonflikt.
+
+Eksisterende effektivitetsmekanisme skal gjenbrukes.
+
+Ingen ny generell governance-prosess skal opprettes.
+
+---
+
+## 8. EXECUTION DIRECTION
+
+Når denne avgrensede autorisasjonen er verifisert effektiv, skal S6 fortsette direkte etter XO Execution Order 080.
+
+Ingen ny Foundation-undersøkelse er nødvendig.
+
+Ingen ny generell rolle- eller myndighetsreview er nødvendig.
+
+S6 skal gjennomføre alle autoriserte handlinger frem til lengste gyldige sluttilstand.
+
+Ved manglende mergeautorisasjon skal S6 levere en ferdig kvalifisert PR og identifisere den eksakte gjenstående beslutningen.
+
+---
+
+## 9. COMMANDER DISPOSITION REQUESTED
+
+**APPROVE:**
+
+`RALLYPROOF-FOUNDATION-ALIGNMENT-001-PACKAGE-A1`
+
+**AUTHORIZED TECHNICAL EXECUTOR:**
+
+`GITHUB:kompanikollen-arch#255761231`
+
+**AUTHORIZED SCOPE:**
+
+Seks eksakte dokumenter angitt i punkt 4.
+
+**AUTHORIZED ACTIONS:**
+
+Branch / bounded documentation correction / commit / PR / tests / CI / required review / read-only verification.
+
+**PROTECTED MERGE:**
+
+NOT GRANTED.
+
+**GENERAL WRITER AUTHORITY:**
+
+NOT GRANTED.
+
+**DEPLOYMENT:**
+
+NOT GRANTED.
+
+**EFFECTIVITY:**
+
+SUBJECT TO COMPETENT AUTHENTICATION AND APPLICABLE EFFECTIVITY REQUIREMENTS.
+
+---
+
+**XO — CHIEF OF STAFF**
+
+**EXACT AUTHORITY. EXACT EXECUTOR. EXACT FILES.**
+
+**MAXIMUM AUTHORIZED EXECUTION. MINIMUM UNNECESSARY GOVERNANCE.**
