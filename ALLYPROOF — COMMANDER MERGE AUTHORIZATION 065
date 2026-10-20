@@ -1,0 +1,144 @@
+# RALLYPROOF — COMMANDER MERGE AUTHORIZATION 065
+
+## OPORD 001 v1.1 — PR #1267 EXACT MERGE APPROVAL
+
+**DECISION ID:** `CMD-RALLYPROOF-HQ-OPORD-001-V1-1-PR1267-MERGE-AUTHORIZATION-001`
+
+**ISSUING AUTHORITY:** Human Commander — Rallyproof  
+**DATE:** 20. oktober 2026  
+**DECISION CLASS:** Single-Purpose Protected Merge Authorization  
+**REPOSITORY:** `RaunTechnologies/rallyproof`  
+**STATUS:** APPROVED AND ORDERED — upon authenticated publication by Human Commander
+
+---
+
+## 1. COMMANDER DECISION
+
+Human Commander godkjenner herved én eksakt, beskyttet merge av:
+
+**PR:** https://github.com/RaunTechnologies/rallyproof/pull/1267
+
+**APPROVED PR HEAD:**
+
+`dfd9f070108c855dd5d861f55a8e6b436f02b926`
+
+**QUALIFIED BASE MAIN:**
+
+`591e2440a8210c2a08c303b057474f4740d5ddc2`
+
+**EXACT TARGET:**
+
+`01_HQ/OPORD.md`
+
+**APPROVED GIT BLOB:**
+
+`9aa3b4231a7622d32e338680f20af2df4fb35cdb`
+
+**APPROVED SIZE:**
+
+`20,564 bytes`
+
+**APPROVED SHA-256:**
+
+`f89d22d01fa1246ae7d5a543d11ef856928f7ea79a6087377efb57f6b917f008`
+
+Ingen annen OPORD-versjon eller endret dokumentidentitet omfattes.
+
+---
+
+## 2. QUALIFICATION BASIS
+
+Commander legger til grunn:
+
+1. Tidligere autentisert Commander Adoption Decision.
+2. Tidligere autentisert Commander Effectivity Execution Authorization.
+3. Commander Decision 058 — Technical Executor Binding Approval.
+4. Bestått teknisk publisering og exact-HEAD CI.
+5. Uavhengig kvalifisering av oppdatert HEAD med resultat:
+
+`PASS — OPORD 001 v1.1 UPDATED HEAD QUALIFIED`
+
+Denne kvalifiseringen er gjennomført som uavhengig ChatGPT-review og skal ikke feilaktig representeres som native GitHub-review.
+
+Ingen ny materiell OPORD-adopsjon kreves.
+
+---
+
+## 3. MERGE EXECUTION AUTHORIZATION
+
+Følgende tekniske utfører autoriseres til denne ene mergeoperasjonen:
+
+`GITHUB:kompanikollen-arch#255761231`
+
+Autorisasjonen gjelder kun PR #1267 og den eksakte identifiserte HEAD-en.
+
+Før merge skal utføreren kontrollere:
+
+- At denne Commander-beslutningen er autentisert og gjeldende.
+- At PR HEAD fortsatt er eksakt godkjent SHA.
+- At endringsomfanget fortsatt er begrenset til `01_HQ/OPORD.md`.
+- At Git-blob og dokumentidentitet fortsatt stemmer.
+- At obligatorisk CI er bestått.
+- At gjeldende branch protection og eventuelle bindende native GitHub-reviewkrav er oppfylt.
+- At ingen tilbakekalling eller materiell myndighetskonflikt foreligger.
+
+Dersom `main` har endret seg, skal kompetent utfører fastslå om ny baseline krever en oppdatert kvalifisering eller beslutning før merge.
+
+Ingen bypass av GitHub-beskyttelse eller påkrevde reviews er autorisert.
+
+Etter oppfylte vilkår kan kompetent teknisk utfører gjennomføre merge.
+
+---
+
+## 4. EXPRESS LIMITATIONS
+
+Denne beslutningen gir ikke:
+
+- Generell mergeautorisasjon.
+- Generell GitHub Writer Authority.
+- Deploy- eller produksjonsmyndighet.
+- Tillatelse til å endre OPORD-bytene.
+- Rett til å merge andre pull requests.
+- Rett til å omgå branch protection.
+- Automatisk operativ effekt for OPORD v1.1.
+
+Autorisasjonen gjelder én merge og opphører når operasjonen er fullført eller beslutningen kompetent tilbakekalles.
+
+Ingen tilbakevirkende effekt.
+
+---
+
+## 5. POST-MERGE REQUIREMENTS
+
+Etter gyldig merge skal S6 verifisere:
+
+1. Faktisk merge-commit.
+2. Målfilens Git-blob på `main`.
+3. Eksakt dokumentstørrelse og SHA-256.
+4. At PR #1267 er korrekt registrert som merged.
+
+XO skal deretter gjennomføre den tidligere separat Commander-autoriserte prospektive effektivitetsregistreringen.
+
+Denne skal etterfølges av uavhengig effektivitetsreadback og IM-currentness.
+
+OPORD 001 v1.1 skal ikke erklæres operativt effektiv før effektivitetsvilkårene er oppfylt.
+
+---
+
+## 6. FINAL COMMANDER DECISION
+
+**APPROVED — PR #1267 EXACT PROTECTED MERGE**
+
+**HEAD:**
+
+`dfd9f070108c855dd5d861f55a8e6b436f02b926`
+
+**AUTHORIZED EXECUTOR:**
+
+`GITHUB:kompanikollen-arch#255761231`
+
+**SUBJECT TO ALL EXISTING PROTECTED MERGE CONTROLS.**
+
+**HUMAN COMMANDER — RALLYPROOF**
+
+**APPROVED AND ORDERED**
