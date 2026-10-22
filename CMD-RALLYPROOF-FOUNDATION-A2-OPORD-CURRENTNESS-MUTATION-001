@@ -1,0 +1,181 @@
+# RALLYPROOF — COMMANDER MUTATION AUTHORIZATION 001
+
+## FOUNDATION ALIGNMENT 001 — PACKAGE A2
+### HQ-OPORD v1.1 Currentness Correction — Protected Document Mutation
+
+**DECISION ID:** CMD-RALLYPROOF-FOUNDATION-A2-OPORD-CURRENTNESS-MUTATION-001  
+**FROM:** Human Commander — `commanderrallyproof`  
+**TO:** S6 — Engineering & Technical Systems  
+**AUTHORIZED TECHNICAL EXECUTOR:** `GITHUB:kompanikollen-arch#255761231`  
+**PROFESSIONAL QUALIFICATION:** IM — Information Governance  
+**INDEPENDENT VERIFICATION:** Bodyguard / Qualified Reviewer, where required  
+**DATE:** 22 October 2026  
+**REPOSITORY:** `RaunTechnologies/rallyproof`  
+**PRIORITY:** HIGH  
+**EXECUTION MODEL:** RAUN OS v2 / Lean Path v1.2  
+**STATUS:** COMMANDER DECISION — EFFECTIVITY SUBJECT TO AUTHENTICATED PUBLICATION AND APPLICABLE CURRENTNESS REQUIREMENTS
+
+---
+
+## 1. COMMANDER DECISION
+
+I, Human Commander of Rallyproof, authorize one narrowly bounded protected-document repository mutation for:
+
+**Foundation Alignment 001 — Package A2 — HQ-OPORD v1.1 Currentness Correction.**
+
+The purpose is to correct the currentness presentation of the already adopted and subsequently effective HQ-OPORD-001 v1.1.
+
+This authorization does not adopt a new OPORD, change the effective OPORD, amend Commander intent, establish new authority, or reopen completed Foundation Alignment Package A1.
+
+The authorization is limited to preparation, controlled repository mutation and submission of one pull request containing the exact A2 currentness correction specified below.
+
+## 2. AUTHORITATIVE BASIS
+
+The authorized executor shall preserve and reference the existing authority and effectivity chain:
+
+- Commander Adoption: `d4824692e989770041cd45bcc01d7bb64c98b208`.
+- Commander Effectivity Authorization: `b9057367a048f5b76f09f757a6392b927fe5fff4`.
+- Publication PR: `RaunTechnologies/rallyproof#1267`.
+- Publication merge: `ea108283c1b8bca4499eca504e99064e648efadf`.
+- Prospective effectivity receipt: `6280464799`.
+- Effectivity timestamp: `2026-10-20T00:32:27Z`.
+- Existing IM classification: CLASS A — NON-MATERIAL CURRENTNESS / NAVIGATION CORRECTION.
+- S6 Execution Return 089, dated 22 October 2026.
+
+These sources shall be rechecked for applicable currentness and revocation before protected mutation.
+
+The historical candidate metadata in `01_HQ/OPORD.md` does not supersede the later valid effectivity chain.
+
+## 3. EXACT AUTHORIZED MUTATION
+
+**Repository:** `RaunTechnologies/rallyproof`  
+**Target file:** `01_HQ/OPORD.md`
+
+**Authorized original Git blob:**
+
+`9aa3b4231a7622d32e338680f20af2df4fb35cdb`
+
+**Authorized change:**
+
+Exactly the six-line insertion contained in:
+
+`A2_HQ_OPORD_currentness.patch`
+
+as prepared under S6 Execution Return 089.
+
+**Expected resulting Git blob:**
+
+`3154c0b74379471de95240280af8267ed5c04781`
+
+**Expected resulting SHA-256:**
+
+`9da52010fbd930284b9f2e7fa2934459fba0e9dce51b60a8a13289971947c288`
+
+**Expected resulting file size:** 21,821 bytes.
+
+The complete patch must be reproduced and independently checked against the source file before mutation.
+
+If the patch, original blob, resulting blob or resulting SHA-256 differs, this authorization does not cover the changed candidate. The executor shall stop the protected mutation and report the discrepancy.
+
+No alternative or expanded patch is authorized by this decision.
+
+## 4. PERMITTED EXECUTION
+
+Subject to verification of the exact authorized candidate, S6 and the named technical executor may:
+
+1. Reconfirm the current repository baseline and target-file blob.
+2. Reproduce the complete candidate file locally.
+3. Verify the exact Git blob and SHA-256.
+4. Perform local validation without GitHub Actions.
+5. Obtain IM qualification of the exact candidate.
+6. Create one bounded working branch.
+7. Commit the exact authorized change to `01_HQ/OPORD.md`.
+8. Open one pull request against `main`.
+9. Submit the PR for applicable independent review and integration qualification.
+10. Prepare the final merge-readiness report.
+
+Ordinary nonmaterial rebase or branch synchronization is permitted only where the exact authorized target-file content and change scope remain unchanged.
+
+## 5. PROTECTED BOUNDARIES
+
+This authorization does **not** permit:
+
+- Changes to any file other than `01_HQ/OPORD.md`.
+- Changes to the substantive provisions of HQ-OPORD-001 v1.1.
+- Changes to mission, intent, organizational responsibilities or authority boundaries.
+- Replacement of historical records with invented currentness claims.
+- New OPORD adoption or new effectivity registration.
+- Creation or expansion of XO, S1–S6, Product, IM or Bodyguard authority.
+- General Writer Authority.
+- Additional protected governance mutations.
+- Bypass of branch protection, CI, required review or other applicable controls.
+- Merge without separately established competent merge authority.
+- Deployment, production changes, database mutation, customer publication or customer release.
+
+Existing effective Standing Grants, AI Executor Simplification and Global Build Hold Retirement shall be respected within their actual scope. They do not expand this decision.
+
+## 6. PROFESSIONAL QUALIFICATION AND VERIFICATION
+
+IM shall qualify the exact candidate for:
+
+- Fidelity to the existing effective HQ-OPORD v1.1.
+- Accurate currentness and effectivity representation.
+- Preservation of historical provenance.
+- Nonmaterial classification.
+- Absence of newly created authority.
+- Absence of unauthorized substantive changes.
+
+Independent review shall be obtained where required.
+
+Local validation may proceed without GitHub Actions.
+
+Unavailable CI shall be recorded as **NOT RUN**, not PASS.
+
+No merge shall occur unless applicable integration requirements are satisfied or a competent authority has established a valid alternative under the governing rules.
+
+## 7. AUTHORITY AND EFFECTIVITY
+
+This decision grants only the narrowly bounded prospective mutation authority described in Sections 3–4.
+
+The authorization becomes exercisable only after:
+
+1. Authenticated issuance by the protected Human Commander identity.
+2. Valid publication and attribution of this decision.
+3. Satisfaction of applicable prospective effectivity and currentness requirements.
+4. Verification that the decision has not been revoked or superseded.
+
+The Commander signature or publication shall not be inferred from a draft, an AI-generated response, or an unsigned repository artifact.
+
+No separate general campaign, new role activation or general governance approval is required by this decision.
+
+## 8. REQUIRED S6 RETURN
+
+S6 shall report:
+
+- Commander decision source and effectivity evidence.
+- Actual repository baseline.
+- Verified original and resulting Git blobs.
+- Exact SHA-256 of the candidate.
+- IM qualification result.
+- Local validation results.
+- Branch and PR identifiers, if created.
+- Independent review status.
+- CI status.
+- Remaining integration gates.
+- Exact next action required for competent merge.
+
+**Authorized end state:** One exact, independently qualified A2 currentness-correction PR prepared for controlled integration.
+
+**Package A2 remains OPEN until competent merge, postmerge verification on `main`, and final IM currentness confirmation.**
+
+---
+
+## COMMANDER DISPOSITION
+
+**APPROVED — ONE-PR PROTECTED HQ-OPORD CURRENTNESS MUTATION ONLY.**
+
+**No merge authority granted. No general governance authority granted. No new OPORD adoption or effectivity established.**
+
+**ISSUING AUTHORITY:** Human Commander — `commanderrallyproof`  
+**AUTHENTICATION:** Through attributable Commander-controlled GitHub publication  
+**DECISION DATE:** 22 October 2026
